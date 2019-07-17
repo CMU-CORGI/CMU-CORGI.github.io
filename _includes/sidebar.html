@@ -1,0 +1,11 @@
+<h2>Navigate to</h2>
+<ul>
+{% for sidebar in site.data.sidebar %}
+<li><a href="{{ sidebar.url }}"><big>{{ sidebar.text }}</big></a><br></li>
+{% endfor %}
+</ul>
+
+<h2>Funded by</h2>
+
+{% for source_hash in site.data.funding %}{% assign source = source_hash[1] %}<a href="{{ source.url }}"><img src="{{ source.image }}" width="64px"/></a>{% endfor %}
+

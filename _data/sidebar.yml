@@ -2,10 +2,13 @@
   url: https://nathanbeckmann.com
 
 - text: People
-  url: people.md
+  url: people.html
 
 - text: Projects
-  url: projects.md
+  url: projects.html
+
+- text: Publications
+  url: publications.html
   
 - text: Funding
-  url: funding.md
+  url: funding.html

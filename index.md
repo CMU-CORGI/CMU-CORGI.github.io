@@ -1,7 +1,7 @@
-# CORGI
+---
+title: CORGi
+---
 
-## Computer Organization Research Group @ CMU
-
-### Under construction!
+# Under construction!
 
 Check out our [funding](./funding.md)!

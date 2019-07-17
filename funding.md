@@ -1,14 +1,17 @@
-# Funding Sources
-
-{% for source_hash in site.data.funding %}{% assign source = source_hash[1] %}[ ![{{ source.name }}]({{ source.image }}){: width="96px"} ]({{source.url}}){% endfor %}
+---
+title: CORGi Funding
+---
 
 # List of Awards
 
-{% for funds in site.funding %}
-{% assign source = site.data.funding[funds.source] %}
+Click on each award to see a list of projects and publications funded.
 
-## ![{{ source.name }}]({{ source.image }}){: width="32px"} {{ funds.title }}
+{% assign funds = site.funding | sort: 'date' | reverse %}
+{% for fund in funds %}
+{% assign source = site.data.funding[fund.source] %}
 
-{{ funds.contents }}
+### ![{{ source.name }}]({{ source.image }}){: width="32px"} {{ fund.title }}
+
+{{ fund.contents }}
 
 {% endfor %}
