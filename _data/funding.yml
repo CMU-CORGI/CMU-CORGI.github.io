@@ -1,0 +1,9 @@
+nsf:
+    name: National Science Foundation
+    url: nsf.gov
+    image: https://upload.wikimedia.org/wikipedia/commons/1/12/NSF.svg
+
+google:
+    name: Google
+    url: google.com
+    image: https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg
