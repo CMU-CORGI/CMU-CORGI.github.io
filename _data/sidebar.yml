@@ -1,0 +1,11 @@
+- text: Nathan's webpage
+  url: https://nathanbeckmann.com
+
+- text: People
+  url: people.md
+
+- text: Projects
+  url: projects.md
+  
+- text: Funding
+  url: funding.md
