@@ -1,9 +1,6 @@
 # Funding Sources
 
-{% for source_hash in site.data.funding %}
-{% assign source = source_hash[1] %}
-[ ![{{ source.name }}]({{ source.image }}){: width="96px"} ]({{source.url}})
-{% endfor %}
+{% for source_hash in site.data.funding %}{% assign source = source_hash[1] %}[ ![{{ source.name }}]({{ source.image }}){: width="96px"} ]({{source.url}}){% endfor %}
 
 # List of Awards
 
