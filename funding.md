@@ -1,7 +1,5 @@
 # Funding Sources
 
-CORGI is generously funded by
-
 {% for source_hash in site.data.funding %}
 {% assign source = source_hash[1] %}
 [ ![{{ source.name }}]({{ source.image }}){: width="96px"} ]({{source.url}})
