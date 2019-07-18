@@ -4,7 +4,7 @@ description: Computer Organization Research Group @CMU led by Prof. Nathan Beckm
 theme: jekyll-theme-architect
 
 collections:
-    - funding
     - people
+    - funding
     - projects
     - publications

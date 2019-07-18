@@ -4,4 +4,4 @@ title: CORGi
 
 # Under construction!
 
-Check out our [funding](./funding.md)!
+Check out the [people](./people.md) and our [funding](./funding.md)!
