@@ -25,6 +25,7 @@ header ul {
     height: auto;
     border: none;
     background: none;
+    position: static;
 }
 
 header ul a {
@@ -37,11 +38,11 @@ header ul a {
     height: auto;
 }
 
-$secwidth: 75%;
+$secwidth: 75vw;
 $secminwidth: 200px;
 $secmaxwidth: 1000px;
 $headerwidth: 270px;
-$wrappermargin: 10px;
+$wrappermargin: 50px;
 
 .wrapper {
     width: calc(#{$secwidth} + #{$headerwidth} + #{$wrappermargin});
@@ -49,12 +50,14 @@ $wrappermargin: 10px;
     max-width: calc(#{$secmaxwidth} + #{$headerwidth} + #{$wrappermargin});
 }
 
-header {
-    width: $headerwidth;
-}
-
 section {
     width: calc(#{$secwidth});
     min-width: calc(#{$secminwidth});
     max-width: calc(#{$secmaxwidth});
+}
+
+@media print, screen and (max-width: 960px) {
+    body { padding: 15px; }
+    div.wrapper { width: auto; min-width: auto; max-width: auto; }
+    header, section, footer { width: calc(100vw - 50px); }
 }
