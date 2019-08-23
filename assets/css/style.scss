@@ -4,15 +4,9 @@
 @import "{{ site.theme }}";
 
 .people-grid {
-    width: 100%;
-    float: left;
-}
-
-.people {
-    width: 200px;
-    float: left;
-    padding: 7px;
-    margin: 5px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 1rem;
 }
 
 header li {
@@ -43,6 +37,7 @@ $secminwidth: 200px;
 $secmaxwidth: 1000px;
 $headerwidth: 270px;
 $wrappermargin: 50px;
+$bigpadding: 50px;
 
 .wrapper {
     width: calc(#{$secwidth} + #{$headerwidth} + #{$wrappermargin});
@@ -55,6 +50,11 @@ section {
     min-width: calc(#{$secminwidth});
     max-width: calc(#{$secmaxwidth});
 }
+
+@media print, screen and (max-width: calc(4 * #{$headerwidth} + 4 * #{$wrappermargin})) {
+    div.wrapper { width: auto; }
+    section { width: calc(100vw - #{$headerwidth} - #{$wrappermargin} - 2 * #{$bigpadding}); }
+}    
 
 @media print, screen and (max-width: 960px) {
     body { padding: 15px; }

@@ -28,7 +28,7 @@ title: CORGi People
 
 {% for person in students %}
 
-<div class="people" markdown="1">
+<div markdown="1">
 
 ### {{ person.name }} {%
   if person.webpage %}--- [web]({{ person.webpage }}){% endif %} --- since {{ person.start | date: "%Y" }}

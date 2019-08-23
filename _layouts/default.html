@@ -30,6 +30,11 @@
             {% endfor %}
           </ul>
         </div>
+
+        <div>
+        <h3>Funded by</h3>
+        {% for source_hash in site.data.funding %}{% assign source = source_hash[1] %}<a href="{{ source.url }}"><img src="{{ source.image }}" width="64px"/></a>{% endfor %}
+        </div>
       </header>
       
       <section>
@@ -38,8 +43,6 @@
 
       </section>
       <footer>
-        <h3>Funded by</h3>
-        {% for source_hash in site.data.funding %}{% assign source = source_hash[1] %}<a href="{{ source.url }}"><img src="{{ source.image }}" width="64px"/></a>{% endfor %}
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
