@@ -1,7 +1,7 @@
 title: CORGi
 description: Computer Organization Research Group @CMU led by Prof. Nathan Beckmann
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 
 collections:
     - people
