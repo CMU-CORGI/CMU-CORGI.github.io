@@ -9,4 +9,4 @@ start: 2016-09-01
 end: 2017-09-01
 ---
 
-Currently a PhD student at UPenn.
+Now at UPenn.

@@ -8,9 +8,11 @@ title: CORGi People
   where_exp:"person","person.title contains 'Professor'" %}
 {% for person in faculty %}
 
-### {{ person.name }} --- [web]({{ person.webpage }})
+### {{ person.name }}
 
-![{{person.name}}]({{person.image}}){: height="250px"}
+{% if person.webpage %}<a href="{{person.webpage}}">{% endif %}
+<img src="{{person.image}}" alt="{{person.name}}" class="person" />
+{% if person.webpage %}</a>{% endif %}
 
 {{ person.title }} in {{ person.dept }}.
 
@@ -30,12 +32,13 @@ title: CORGi People
 
 <div markdown="1">
 
-### {{ person.name }} {%
-  if person.webpage %}--- [web]({{ person.webpage }}){% endif %} --- since {{ person.start | date: "%Y" }}
+### {{ person.name }} ({{ person.start | date: "%Y" }} -- )
 
-![{{person.name}}]({{person.image}}){: height="200px"}
+{% if person.webpage %}<a href="{{person.webpage}}">{% endif %}
+<img src="{{person.image}}" alt="{{person.name}}" class="person" />
+{% if person.webpage %}</a>{% endif %}
 
-{{ person.output }}
+{{ person.output | remove: '<p>' | remove: '</p>' }}
 
 </div>
 
@@ -53,18 +56,26 @@ title: CORGi People
    where_exp:"person","person.end == ''" |
    sort: 'name' | reverse |
    sort: 'start' | reverse %}
+
+<div class="people-grid">
+
 {% for person in students %}
 
-### {{ person.name }} {%
-  if person.webpage %}--- [web]({{ person.webpage }}){% endif %} --- since {{ person.start | date: "%Y" }}
+<div markdown="1">
 
-{% if person.image %}![{{person.name}}]({{person.image}}){: height="200px"}{% endif %}
+### {{ person.name }} ({{ person.start | date: "%Y" }} -- )
 
-{{ person.title }} in {{ person.dept }}
+{% if person.webpage %}<a href="{{person.webpage}}">{% endif %}
+{% if person.image %}<img src="{{person.image}}" alt="{{person.name}}" class="person" />{% endif %}
+{% if person.webpage %}</a>{% endif %}
 
-{{ person.output }}
+{{ person.title }} in {{ person.dept }}. {{ person.output | remove: '<p>' | remove: '</p>' }}
+
+</div>
 
 {% endfor %}
+
+</div>
 
 # Alumni
 
@@ -72,14 +83,23 @@ title: CORGi People
   where_exp:"person","person.end != ''" |
   sort: 'name' | reverse |
   sort: 'end' | reverse %}
+
+<div class="people-grid">
+
 {% for person in students %}
 
-### {{ person.name }} {%
-  if person.webpage %}--- [web]({{ person.webpage }}){% endif %} --- {{
-  person.start | date: "%Y" }} to {{ person.end | date: "%Y" }}
+<div markdown="1">
 
-<!-- {% if person.image %}![{{person.name}}]({{person.image}}){: height="200px"}{% endif %} -->
+### {{ person.name }} ({{ person.start | date: "%Y" }} -- {{ person.end | date: "%Y" }})
 
-{{ person.title }} in {{ person.dept }}. {{ person.content | remove: '<p>' | remove: '</p>' }}
+{% if person.webpage %}<a href="{{person.webpage}}">{% endif %}
+{% if person.image %}<img src="{{person.image}}" alt="{{person.name}}" class="person" />{% endif %}
+{% if person.webpage %}</a>{% endif %}
+
+{{ person.title }} in {{ person.dept }}. {{ person.output | remove: '<p>' | remove: '</p>' }}
+
+</div>
 
 {% endfor %}
+
+</div>

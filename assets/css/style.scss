@@ -9,6 +9,13 @@
     grid-gap: 1rem;
 }
 
+.person {
+    height: 200px;
+    width: auto;
+    border-radius: 32px;
+    border: 1px solid #ddd;
+}
+
 header li {
     float: none;
     border-right: none;
