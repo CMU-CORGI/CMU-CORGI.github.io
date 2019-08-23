@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.people-grid {
+    width: 100%;
+    float: left;
+}
+
+.people {
+    width: 200px;
+    float: left;
+    padding: 7px;
+    margin: 5px;
+}
+
+.inner {
+    width: 1200px;
+    border: "1px black solid";
+}

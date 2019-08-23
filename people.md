@@ -23,7 +23,12 @@ title: CORGi People
   where_exp:"person","person.end == ''" |
   sort: 'name' | reverse |
   sort: 'start' | reverse %}
+
+<div class="people-grid">
+
 {% for person in students %}
+
+<div class="people" markdown="1">
 
 ### {{ person.name }} {%
   if person.webpage %}--- [web]({{ person.webpage }}){% endif %} --- since {{ person.start | date: "%Y" }}
@@ -32,7 +37,11 @@ title: CORGi People
 
 {{ person.output }}
 
+</div>
+
 {% endfor %}
+
+</div>
 
 # Masters and Undergrad Students
 
@@ -69,9 +78,8 @@ title: CORGi People
   if person.webpage %}--- [web]({{ person.webpage }}){% endif %} --- {{
   person.start | date: "%Y" }} to {{ person.end | date: "%Y" }}
 
-{% if person.image %}![{{person.name}}]({{person.image}}){: height="200px"}{% endif %}
+<!-- {% if person.image %}![{{person.name}}]({{person.image}}){: height="200px"}{% endif %} -->
 
-{{ person.title }} in {{ person.dept }}.
-{{ person.content }}
+{{ person.title }} in {{ person.dept }}. {{ person.content | remove: '<p>' | remove: '</p>' }}
 
 {% endfor %}
