@@ -86,15 +86,40 @@ title: CORGi People
 
 {% for person in students %}
 
+{% unless person.title contains 'Corgi' %}
+
 <div markdown="1">
 
-### {{ person.name }} ({{ person.start | date: "%Y" }} -- {{ person.end | date: "%Y" }})
+### [{{ person.name }}]({{person.url}}) ({{ person.start | date: "%Y" }} -- {{ person.end | date: "%Y" }})
 
-{% if person.webpage %}<a href="{{person.webpage}}">{% endif %}
-{% if person.image %}<img src="{{person.image}}" alt="{{person.name}}" class="person" />{% endif %}
-{% if person.webpage %}</a>{% endif %}
+{{ person.title }} in {{ person.dept }}. {{person.content | remove: "<p>" | remove: "</p>" }}
 
-{{ person.title }} in {{ person.dept }}. {{ person.output | remove: '<p>' | remove: '</p>' }}
+</div>
+
+{% endunless %}
+
+{% endfor %}
+
+</div>
+
+# Corgis
+
+{% assign corgis = site.people |
+  where_exp: "corgum", "corgum.title contains 'Corgi'" |
+  sort: 'name' | reverse |
+  sort: 'end' | reverse %}
+
+<div class="people-grid">
+
+{% for corgum in corgis %}
+
+<div markdown="1">
+
+### [{{ corgum.name }}]({{corgum.url}}) ({{ corgum.start | date: "%Y" }} -- {{ corgum.end | date: "%Y" }})
+
+<a href="{{corgum.url}}">
+<img src="{{corgum.image}}" alt="{{corgum.name}}" class="person" />
+</a>
 
 </div>
 
