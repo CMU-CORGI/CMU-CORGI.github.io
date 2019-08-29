@@ -4,15 +4,16 @@ tag: ms
 image:
 ---
 
-This project is developing *Memory Services*,
-a new programming model to specialize the memory hierarchy,
-as well as a new system architecture to implement Memory Services.
+This project is developing a new system architecture
+that lets applications *re-program the memory hierarchy*
+to specialize its operation.
+We are developing a new data-centric model called _Memory Services_
+and new hardware to give programmers unprecedented control over the memory hierarchy.
 
-Memory Services allow programmers to specialize the memory hierarchy to support their application in a variety of ways.
-On the simpler side, applications could de-compress/compress data as it moves to/from memory using more effective, app-specific compression techniques.
-Getting more complex, applications can implement complex data structure operations within the memory hierarchy,
-or even completely change how the memory hierarchy functions to specialize for a particular application domain.
-
-We aim to demonstrate the potential of the Memory Service model by developing exemplar services and by designing a programmable cache hierarchy to support a wide range of services.
-This architecture distributes new, reconfigurable *Memory Service Engines* throughout the memory hierarchy to give applications unprecedented control over data movement.
-We have begun by developing services for graph processing and other irregular data structures.
+We have begun by developing several exemplar services
+to demonstrate the potential of Memory Services and learn their common design patterns.
+Thus far, we have built Memory Services that improve performance and energy-efficiency by 2X on
+challenging irregular computations (e.g., graph processing and linked data structures).
+We are now building a programmable memory hierarchy called _Livia_ to support these services, as well as many others.
+Livia distributes reconfigurable *Memory Service Engines* throughout the memory hierarchy,
+which can perform computation or other actions within the memory hierarchy as demanded by each Memory Service.
