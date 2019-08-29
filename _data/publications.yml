@@ -1,0 +1,132 @@
+2018.sigmetrics.foo:
+    title: "Practical Bounds on Offline Caching with Variable Object Sizes"
+    authors: [dberger, nathan, Mor Harchol-Balter]
+    venue: SIGMETRICS
+    date: 2018-06-01
+    projects: [caching]
+
+2016.cal.odes:
+    title: "Cache Calculus: Modeling Caches through Differential Equations"
+    authors: [nathan, sanchez]
+    venue: IEEE CAL
+    date: 2016-01-01
+    projects: [caching]
+
+2019.micro.manic:
+    title: "MANIC: An Energy-Efficient, Parallel Architecture for Ultra-Low-Power Embedded Systems"
+    authors: [graham, nathan, blucia]
+    venue: MICRO
+    date: 2019-10-12
+    projects: [sonic]
+
+2019.micro.phi:
+    title: "PHI: Architectural Support for Synchronization- and Bandwidth-Efficient Commutative Scatter Updates"
+    authors: [Anurag Mukkara, nathan, sanchez]
+    venue: MICRO
+    date: 2019-10-12
+    projects: [ms]
+
+2019.spaa.writeback:
+    title: "Writeback-Aware Caching"
+    authors: [nathan, Phillip Gibbons, Bernhard Haeupler, Charles McGuffey]
+    venue: Brief Announcement in SPAA
+    date: 2019-06-01
+    projects: [caching]
+
+2019.asplos.sonic:
+    title: "Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems"
+    authors: [graham, blucia, nathan]
+    venue: ASPLOS
+    date: 2019-04-15
+    projects: [sonic]
+
+2018.micro.hats:
+    title: "Improving the Locality of Graph Processing through Hardware-Accelerated Traversal Scheduling"
+    authors: [Anurag Mukkara, nathan, Maleen Abeydeera, Xiaosong Ma, sanchez]
+    venue: MICRO
+    date: 2018-10-01
+    projects: [ms]
+
+2018.sysml.sonic:
+    title: "Intermittent Deep Neural Network Inference"
+    authors: [graham, nathan, blucia]
+    venue: SysML
+    date: 2018-02-01
+    projects: [ms]
+
+2018.nsdi.lhd:
+    title: "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
+    authors: [nathan, Haoxian Chen, Asaf Cidon]
+    venue: NSDI
+    date: 2018-04-11
+    projects: [caching]
+
+2017.isca.cgs:
+    title: "Cache-Guided Scheduling: Exploiting Caches to Maximize Locality in Graph Processing"
+    authors: [ Anurag Mukkara, nathan, sanchez ]
+    venue: AGP at ISCA
+    date: 2017-06-01
+    projects: [ms]
+
+2017.pact.nexus:
+    title: "Nexus: A New Approach to Replication in Distributed Shared Caches"
+    authors: [Po-An Tsai, nathan, sanchez]
+    venue: PACT
+    date: 2017-09-09
+    projects: [sdm]
+
+2017.isca.jenga:
+    title: "Jenga: Software-Defined Cache Hierarchies"
+    authors: [Po-An Tsai, nathan, sanchez]
+    venue: ISCA
+    date: 2017-06-01
+    projects: [sdm]
+
+2017.hpca.eva:
+    title: "Maximizing Cache Performance Under Uncertainty"
+    authors: [nathan, sanchez]
+    venue: HPCA
+    date: 2017-02-01
+    projects: [caching]
+
+2016.asplos.whirlpool:
+    title: "Whirlpool: Improving Cache Management with Application-Level Data Classification"
+    authors: [Anurag Mukkara, nathan, sanchez]
+    venue: ASPLOS
+    date: 2016-04-01
+    projects: [sdm]
+
+2016.hpca.model:
+    title: "Modeling Cache Performance Beyond LRU"
+    authors: [nathan, sanchez]
+    venue: HPCA
+    date: 2016-03-16
+    projects: [caching]
+
+2015.micro.rubik:
+    title: "Rubik: Fast Analytical Power Management for Latency-Critical Systems"
+    authors: [Harshad Kasture, Davide Bartolini, nathan, sanchez]
+    venue: MICRO
+    date: 2015-12-09
+    projects: []
+
+2015.hpca.talus:
+    title: "Talus: A Simple Way to Remove Cliffs in Cache Performance"
+    authors: [nathan, sanchez]
+    venue: HPCA
+    date: 2015-02-01
+    projects: [caching]
+
+2015.hpca.cdcs:
+    title: "CDCS: Scaling Non-Uniform Cache Architectures with Computation and Data Co-Scheduling"
+    authors: [nathan, Po-An Tsai, sanchez]
+    venue: HPCA
+    date: 2015-02-01
+    projects: [sdm]
+
+2013.pact.jigsaw:
+    title: "Jigsaw: Scalable Software-Defined Caches"
+    authors: [nathan, sanchez]
+    venue: PACT
+    date: 2013-11-01
+    projects: [sdm]

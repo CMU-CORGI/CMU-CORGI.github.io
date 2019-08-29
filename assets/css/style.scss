@@ -3,6 +3,19 @@
 
 @import "{{ site.theme }}";
 
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+    grid-gap: 1rem;
+}
+
+.project {
+    height: 200px;
+    width: auto;
+    border-radius: 32px;
+    border: 1px solid #ddd;
+}
+
 .people-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -37,6 +50,16 @@ header ul a {
     text-align: left;
     padding-top: 0px;
     height: auto;
+}
+
+.tight-h3 {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.image-and-text {
+    display: flex;
+    align-items: center;
 }
 
 $secwidth: 75vw;

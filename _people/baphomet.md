@@ -2,7 +2,7 @@
 name: Baphomet
 tag: baphy
 title: Pembroke Welsh Corgi
-dept: Computer Science Department
+dept: Computer Science
 webpage: 
 image: images/baphy.png
 start: 2018-12-07

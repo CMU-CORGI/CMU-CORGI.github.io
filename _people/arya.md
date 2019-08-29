@@ -2,7 +2,7 @@
 name: Arya
 tag: arya
 title: Pembroke Welsh Corgi
-dept: Computer Science Department
+dept: Computer Science
 webpage: 
 image: images/arya-baroo.jpg
 start: 2012-03-12

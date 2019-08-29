@@ -75,7 +75,32 @@ title: CORGi People
 
 </div>
 
-# Alumni
+# Corgis
+
+{% assign corgis = site.people |
+  where_exp: "corgum", "corgum.title contains 'Corgi'" |
+  sort: 'name' | reverse |
+  sort: 'end' | reverse %}
+
+<div class="people-grid">
+
+{% for corgum in corgis %}
+
+<div markdown="1">
+
+### [{{ corgum.name }}]({{corgum.url}}) ({{ corgum.start | date: "%Y" }} -- {{ corgum.end | date: "%Y" }})
+
+<a href="{{corgum.url}}">
+<img src="{{corgum.image}}" alt="{{corgum.name}}" class="person" />
+</a>
+
+</div>
+
+{% endfor %}
+
+</div>
+
+# Former Members
 
 {% assign students = site.people |
   where_exp:"person","person.end != ''" |
@@ -102,27 +127,3 @@ title: CORGi People
 
 </div>
 
-# Corgis
-
-{% assign corgis = site.people |
-  where_exp: "corgum", "corgum.title contains 'Corgi'" |
-  sort: 'name' | reverse |
-  sort: 'end' | reverse %}
-
-<div class="people-grid">
-
-{% for corgum in corgis %}
-
-<div markdown="1">
-
-### [{{ corgum.name }}]({{corgum.url}}) ({{ corgum.start | date: "%Y" }} -- {{ corgum.end | date: "%Y" }})
-
-<a href="{{corgum.url}}">
-<img src="{{corgum.image}}" alt="{{corgum.name}}" class="person" />
-</a>
-
-</div>
-
-{% endfor %}
-
-</div>

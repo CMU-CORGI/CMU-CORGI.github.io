@@ -10,7 +10,12 @@ Click on each award to see a list of projects and publications funded.
 {% for fund in funds %}
 {% assign source = site.data.funding[fund.source] %}
 
-### ![{{ source.name }}]({{ source.image }}){: width="32px"} {{ fund.title }}
+<div class="image-and-text">
+  <a href="{{ source.url }}">
+     <img src="{{ source.image }}" width="48px" style="margin-right: 10px" />
+  </a>
+  <h3><a href="{{ source.url }}">{{fund.title}}</a></h3>
+</div>
 
 {{ fund.contents }}
 

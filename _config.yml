@@ -9,7 +9,7 @@ collections:
         output: true
     funding:
     projects:
-    publications:
+        output: true
 
 defaults:
     - scope:
@@ -17,6 +17,11 @@ defaults:
         type: "people"
       values:
         layout: "people"
+    - scope:
+        path: ""
+        type: "projects"
+      values:
+        layout: "projects"
     - scope:
         path: ""
       values:

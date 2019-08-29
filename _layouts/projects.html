@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% if page.image %}
+<img src="{{ page.image | absolute_url }}" alt="{{page.name}}" class="project" style="height: 300px !important" />
+{% endif %}
+
+<p>{{ content }}</p>
+
+<h2>Funding</h2>
+
+{% assign funds = site.funding | sort: 'date' | reverse %}
+{% for fund in funds %}
+{% if fund.projects contains page.tag %}
+{% assign source = site.data.funding[ fund.source ] %}
+
+<div class="image-and-text">
+  <a href="{{ source.url }}">
+    <img src="{{ source.image }}" width="48px" style="margin-right: 10px" />
+  </a>
+  <h3><a href="{{ source.url }}">{{fund.title}}</a></h3>
+</div>
+
+{% endif %}
+{% endfor %}
+
+<h2>People</h2>
+
+<div class="people-grid">
+
+{% assign people = site.people | sort: 'name' | reverse %}
+{% for person in site.people %}
+{% if person.projects contains page.tag %}
+
+<div class="image-and-text">
+  <a href="{{ person.url }}">
+    <img src="{{ person.image | absolute_url }}" class="person" style="height: 64px !important; width: auto !important; margin-right: 10px" />
+  </a>
+  <h3><a href="{{ person.url }}">{{person.name}}</a></h3>
+</div>
+
+{% endif %}
+{% endfor %}
+
+</div>
+
+<h2>Publications</h2>
+
+<ul>
+  
+{% for pub_hash in site.data.publications %}
+{% assign pub = pub_hash[1] %}
+{% if pub.projects contains page.tag %}
+
+<li>
+  <h4>{{pub.title}}</h4>
+</li>
+
+{% endif %}
+{% endfor %}
+
+</ul>
+
