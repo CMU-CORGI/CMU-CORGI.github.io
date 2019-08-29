@@ -26,7 +26,7 @@
           <h3>Navigate to</h3>
           <ul>
             {% for sidebar in site.data.sidebar %}
-            <li><a href="{{ sidebar.url }}"><big>{{ sidebar.text }}</big></a><br></li>
+            <li><a href="{{ sidebar.url | absolute_url }}"><big>{{ sidebar.text }}</big></a><br></li>
             {% endfor %}
           </ul>
         </div>

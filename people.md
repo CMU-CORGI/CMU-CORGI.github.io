@@ -8,13 +8,13 @@ title: CORGi People
   where_exp:"person","person.title contains 'Professor'" %}
 {% for person in faculty %}
 
-### {{ person.name }}
+### [{{ person.name }}]({{person.url}})
 
-{% if person.webpage %}<a href="{{person.webpage}}">{% endif %}
+<a href="{{person.url}}">
 <img src="{{person.image}}" alt="{{person.name}}" class="person" />
-{% if person.webpage %}</a>{% endif %}
+</a>
 
-{{ person.title }} in {{ person.dept }}.
+<!-- {{ person.title }} in {{ person.dept }}. -->
 
 {% endfor %}
 
@@ -32,13 +32,11 @@ title: CORGi People
 
 <div markdown="1">
 
-### {{ person.name }} ({{ person.start | date: "%Y" }} -- )
+### [{{ person.name }}]({{person.url}}) ({{ person.start | date: "%Y" }} -- )
 
-{% if person.webpage %}<a href="{{person.webpage}}">{% endif %}
+<a href="{{person.url}}">
 <img src="{{person.image}}" alt="{{person.name}}" class="person" />
-{% if person.webpage %}</a>{% endif %}
-
-{{ person.output | remove: '<p>' | remove: '</p>' }}
+</a>
 
 </div>
 
@@ -63,13 +61,13 @@ title: CORGi People
 
 <div markdown="1">
 
-### {{ person.name }} ({{ person.start | date: "%Y" }} -- )
+### [{{ person.name }}]({{person.url}}) ({{ person.start | date: "%Y" }} -- )
 
-{% if person.webpage %}<a href="{{person.webpage}}">{% endif %}
-{% if person.image %}<img src="{{person.image}}" alt="{{person.name}}" class="person" />{% endif %}
-{% if person.webpage %}</a>{% endif %}
-
-{{ person.title }} in {{ person.dept }}. {{ person.output | remove: '<p>' | remove: '</p>' }}
+{% if person.image %}
+<a href="{{ person.url }}">
+<img src="{{person.image}}" alt="{{person.name}}" class="person" />
+</a>
+{% endif %}
 
 </div>
 

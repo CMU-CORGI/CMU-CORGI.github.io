@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h1>{{ page.name }}</h1>
+<h3>{{ page.title }} in the {{ page.dept }}.</h3>
+
+{% if page.webpage %}
+<p><a href="{{ page.webpage }}">Personal webpage.</a></p>
+{% endif %}
+
+{% if page.image %}
+<img src="{{ page.image | absolute_url }}" alt="{{page.name}}" class="person" style="height: 300px !important" />
+{% endif %}
+
+<p>{{ content }}</p>
+
+<h2>Projects</h2>
+
+<h2>Publications</h2>
+

@@ -7,3 +7,5 @@ image: images/2017-10-18-nathan.jpg
 start: 2017-01-01
 end: ''
 ---
+
+Nathan leads the CORGi group and is involved in all its ongoing projects.
