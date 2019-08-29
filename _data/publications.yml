@@ -1,17 +1,3 @@
-2018.sigmetrics.foo:
-    title: "Practical Bounds on Offline Caching with Variable Object Sizes"
-    authors: [dberger, nathan, Mor Harchol-Balter]
-    venue: SIGMETRICS
-    date: 2018-06-01
-    projects: [caching]
-
-2016.cal.odes:
-    title: "Cache Calculus: Modeling Caches through Differential Equations"
-    authors: [nathan, sanchez]
-    venue: IEEE CAL
-    date: 2016-01-01
-    projects: [caching]
-
 2019.micro.manic:
     title: "MANIC: An Energy-Efficient, Parallel Architecture for Ultra-Low-Power Embedded Systems"
     authors: [graham, nathan, blucia]
@@ -47,12 +33,19 @@
     date: 2018-10-01
     projects: [ms]
 
+2018.sigmetrics.foo:
+    title: "Practical Bounds on Offline Caching with Variable Object Sizes"
+    authors: [dberger, nathan, Mor Harchol-Balter]
+    venue: SIGMETRICS
+    date: 2018-06-01
+    projects: [caching]
+
 2018.sysml.sonic:
     title: "Intermittent Deep Neural Network Inference"
     authors: [graham, nathan, blucia]
     venue: SysML
     date: 2018-02-01
-    projects: [ms]
+    projects: [sonic]
 
 2018.nsdi.lhd:
     title: "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
@@ -95,6 +88,13 @@
     venue: ASPLOS
     date: 2016-04-01
     projects: [sdm]
+
+2016.cal.odes:
+    title: "Cache Calculus: Modeling Caches through Differential Equations"
+    authors: [nathan, sanchez]
+    venue: IEEE CAL
+    date: 2016-01-01
+    projects: [caching]
 
 2016.hpca.model:
     title: "Modeling Cache Performance Beyond LRU"
