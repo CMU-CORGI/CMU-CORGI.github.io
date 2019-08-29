@@ -49,18 +49,10 @@ layout: default
 
 <h2>Publications</h2>
 
-<ul>
-  
 {% for pub_hash in site.data.publications %}
-{% assign pub = pub_hash[1] %}
-{% if pub.projects contains page.tag %}
-
-<li>
-  <h4>{{pub.title}}</h4>
-</li>
-
-{% endif %}
+    {% assign pub = pub_hash[1] %}
+    {% if pub.projects contains page.tag %}
+        {% capture pubmarkdown %}{% include publication.md pub=pub %}{% endcapture %}
+        {{ pubmarkdown | markdownify }}
+    {% endif %}
 {% endfor %}
-
-</ul>
-
