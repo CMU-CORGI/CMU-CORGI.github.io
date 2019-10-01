@@ -1,8 +1,8 @@
-{% assign projsize = pub.projects | size %}
+{% assign projsize = include.pub.projects | size %}
 {% unless projsize == 0 %}
 
 {% capture authors %}
-{% for author in pub.authors %}
+{% for author in include.pub.authors %}
     {% assign found = nil %}
     {% assign matches = site.people |
         where_exp: "person", "person.tag == author" %}
@@ -25,7 +25,7 @@
 {% assign authors = authors | slice: 0, authorsSize %}
 
 {% capture projs %}
-{% for proj in pub.projects %}
+{% for proj in include.pub.projects %}
     {% assign matches = site.projects |
         where_exp: "other", "proj == other.tag" %}
     {% for match in matches %}
@@ -34,9 +34,9 @@
 {% endfor %}
 {% endcapture %}
 
-<h3 class="tight-h3">{{pub.title}}</h3>
+<h3 class="tight-h3">{{include.pub.title}}</h3>
 
-{{ authors }}. {{pub.venue}} {{pub.date | date: "%Y"}}.<br>
+{{ authors }}. {{include.pub.venue}} {{include.pub.date | date: "%Y"}}.<br>
 _Project:_ {{ projs | strip }}
 
 {% endunless %}

@@ -4,6 +4,7 @@
     venue: MICRO
     date: 2019-10-12
     projects: [sonic]
+    funding: [2018.nsf.intermittent]
 
 2019.micro.phi:
     title: "PHI: Architectural Support for Synchronization- and Bandwidth-Efficient Commutative Scatter Updates"
@@ -11,6 +12,7 @@
     venue: MICRO
     date: 2019-10-12
     projects: [ms]
+    funding: [2019.nsf.career]
 
 2019.spaa.writeback:
     title: "Writeback-Aware Caching"
@@ -18,6 +20,7 @@
     venue: Brief Announcement in SPAA
     date: 2019-06-01
     projects: [caching]
+    funding: [2019.google]
 
 2019.asplos.sonic:
     title: "Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems"
@@ -25,6 +28,7 @@
     venue: ASPLOS
     date: 2019-04-15
     projects: [sonic]
+    funding: [2018.nsf.intermittent]
 
 2018.micro.hats:
     title: "Improving the Locality of Graph Processing through Hardware-Accelerated Traversal Scheduling"
@@ -32,6 +36,7 @@
     venue: MICRO
     date: 2018-10-01
     projects: [ms]
+    funding: []
 
 2018.sigmetrics.foo:
     title: "Practical Bounds on Offline Caching with Variable Object Sizes"
@@ -39,6 +44,7 @@
     venue: SIGMETRICS
     date: 2018-06-01
     projects: [caching]
+    funding: [2017.google]
 
 2018.sysml.sonic:
     title: "Intermittent Deep Neural Network Inference"
@@ -46,6 +52,7 @@
     venue: SysML
     date: 2018-02-01
     projects: [sonic]
+    funding: [2018.nsf.intermittent]
 
 2018.nsdi.lhd:
     title: "LHD: Improving Cache Hit Rate by Maximizing Hit Density"
@@ -53,6 +60,7 @@
     venue: NSDI
     date: 2018-04-11
     projects: [caching]
+    funding: [2017.google]
 
 2017.isca.cgs:
     title: "Cache-Guided Scheduling: Exploiting Caches to Maximize Locality in Graph Processing"
@@ -60,6 +68,7 @@
     venue: AGP at ISCA
     date: 2017-06-01
     projects: [ms]
+    funding: []
 
 2017.pact.nexus:
     title: "Nexus: A New Approach to Replication in Distributed Shared Caches"
@@ -67,6 +76,7 @@
     venue: PACT
     date: 2017-09-09
     projects: [sdm]
+    funding: []
 
 2017.isca.jenga:
     title: "Jenga: Software-Defined Cache Hierarchies"
@@ -74,6 +84,7 @@
     venue: ISCA
     date: 2017-06-01
     projects: [sdm]
+    funding: []
 
 2017.hpca.eva:
     title: "Maximizing Cache Performance Under Uncertainty"
@@ -81,6 +92,7 @@
     venue: HPCA
     date: 2017-02-01
     projects: [caching]
+    funding: []
 
 2016.asplos.whirlpool:
     title: "Whirlpool: Improving Cache Management with Application-Level Data Classification"
@@ -88,6 +100,7 @@
     venue: ASPLOS
     date: 2016-04-01
     projects: [sdm]
+    funding: []
 
 2016.cal.odes:
     title: "Cache Calculus: Modeling Caches through Differential Equations"
@@ -95,6 +108,7 @@
     venue: IEEE CAL
     date: 2016-01-01
     projects: [caching]
+    funding: []
 
 2016.hpca.model:
     title: "Modeling Cache Performance Beyond LRU"
@@ -102,6 +116,7 @@
     venue: HPCA
     date: 2016-03-16
     projects: [caching]
+    funding: []
 
 2015.micro.rubik:
     title: "Rubik: Fast Analytical Power Management for Latency-Critical Systems"
@@ -109,6 +124,7 @@
     venue: MICRO
     date: 2015-12-09
     projects: []
+    funding: []
 
 2015.hpca.talus:
     title: "Talus: A Simple Way to Remove Cliffs in Cache Performance"
@@ -116,6 +132,7 @@
     venue: HPCA
     date: 2015-02-01
     projects: [caching]
+    funding: []
 
 2015.hpca.cdcs:
     title: "CDCS: Scaling Non-Uniform Cache Architectures with Computation and Data Co-Scheduling"
@@ -123,6 +140,7 @@
     venue: HPCA
     date: 2015-02-01
     projects: [sdm]
+    funding: []
 
 2013.pact.jigsaw:
     title: "Jigsaw: Scalable Software-Defined Caches"
@@ -130,3 +148,4 @@
     venue: PACT
     date: 2013-11-01
     projects: [sdm]
+    funding: []

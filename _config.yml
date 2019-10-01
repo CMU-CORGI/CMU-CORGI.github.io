@@ -8,6 +8,7 @@ collections:
     people:
         output: true
     funding:
+        output: true
     projects:
         output: true
 
@@ -22,6 +23,11 @@ defaults:
         type: "projects"
       values:
         layout: "projects"
+    - scope:
+        path: ""
+        type: "funding"
+      values:
+        layout: "funding"
     - scope:
         path: ""
       values:

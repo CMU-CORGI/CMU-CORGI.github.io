@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% if page.image %}
+<img src="{{ page.image | absolute_url }}" alt="{{page.name}}" class="project" style="height: 300px !important" />
+{% endif %}
+
+<p>{{ content }}</p>
+
+<h2>Sponsor</h2>
+
+{% assign source = site.data.funding[ page.source ] %}
+{% include image-and-text.html url=source.url text=source.name image=source.image %}
+
+<h2>Projects</h2>
+
+{% for project in site.projects %}
+    {% if page.projects contains project.tag %}
+
+<h3><a href="{{project.url}}">{{ project.title }}</a></h3>
+
+    {% endif %}
+{% endfor %}
+
+<h2>Publications</h2>
+
+{% for pub_hash in site.data.publications %}
+    {% assign pub = pub_hash[1] %}
+    {% if pub.funding contains page.tag %}
+        {% capture pubmarkdown %}{% include publication.md pub=pub %}{% endcapture %}
+        {{ pubmarkdown | markdownify }}
+    {% endif %}
+{% endfor %}

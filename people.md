@@ -100,6 +100,8 @@ title: CORGi People
 
 </div>
 
+<br>
+
 # Former Members
 
 {% assign students = site.people |

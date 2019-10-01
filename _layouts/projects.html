@@ -10,23 +10,6 @@ layout: default
 
 <p>{{ content }}</p>
 
-<h2>Funding</h2>
-
-{% assign funds = site.funding | sort: 'date' | reverse %}
-{% for fund in funds %}
-{% if fund.projects contains page.tag %}
-{% assign source = site.data.funding[ fund.source ] %}
-
-<div class="image-and-text">
-  <a href="{{ source.url }}">
-    <img src="{{ source.image }}" width="64px" style="margin-right: 10px" />
-  </a>
-  <h3><a href="{{ source.url }}">{{fund.title}}</a></h3>
-</div>
-
-{% endif %}
-{% endfor %}
-
 <h2>People</h2>
 
 <div class="people-grid">
@@ -37,7 +20,7 @@ layout: default
 
 <div class="image-and-text">
   <a href="{{ person.url }}">
-    <img src="{{ person.image | absolute_url }}" class="person" style="height: 64px !important; width: auto !important; margin-right: 10px" />
+    <img src="{{ person.image | absolute_url }}" class="person" style="height: 96px !important; width: auto !important; margin-right: 10px" />
   </a>
   <h3><a href="{{ person.url }}">{{person.name}}</a></h3>
 </div>
@@ -56,3 +39,14 @@ layout: default
         {{ pubmarkdown | markdownify }}
     {% endif %}
 {% endfor %}
+
+<h2>Funding</h2>
+
+{% assign funds = site.funding | sort: 'date' | reverse %}
+{% for fund in funds %}
+{% if fund.projects contains page.tag %}
+{% assign source = site.data.funding[ fund.source ] %}
+{% include image-and-text.html url=fund.url text=fund.title image=source.image %}
+{% endif %}
+{% endfor %}
+
