@@ -37,6 +37,6 @@
 <h3 class="tight-h3">{{include.pub.title}}</h3>
 
 {{ authors }}. {{include.pub.venue}} {{include.pub.date | date: "%Y"}}.<br>
-_Project:_ {{ projs | strip }}
+{% unless include.pub.noproject != blank %}_Project:_ {{ projs | strip }}{% endunless %}
 
 {% endunless %}

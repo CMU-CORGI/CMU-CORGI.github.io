@@ -10,7 +10,7 @@ layout: default
 
 <p>{{ content }}</p>
 
-<h2>People</h2>
+<h2>CORGi Members</h2>
 
 <div class="people-grid">
 
@@ -29,13 +29,14 @@ layout: default
 {% endfor %}
 
 </div>
+<br>
 
 <h2>Publications</h2>
 
 {% for pub_hash in site.data.publications %}
     {% assign pub = pub_hash[1] %}
     {% if pub.projects contains page.tag %}
-        {% capture pubmarkdown %}{% include publication.md pub=pub %}{% endcapture %}
+        {% capture pubmarkdown %}{% include publication.md pub=pub noproject='true' %}{% endcapture %}
         {{ pubmarkdown | markdownify }}
     {% endif %}
 {% endfor %}
