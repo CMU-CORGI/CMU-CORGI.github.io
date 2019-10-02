@@ -24,7 +24,7 @@ title: CORGi People
   where:"title","PhD student" |
   where_exp:"person","person.end == ''" |
   sort: 'name' | reverse |
-  sort: 'start' | reverse %}
+  sort: 'start' %}
 
 <div class="people-grid">
 
@@ -53,7 +53,7 @@ title: CORGi People
 {% assign students = bsstudents | concat: msstudents |
    where_exp:"person","person.end == ''" |
    sort: 'name' | reverse |
-   sort: 'start' | reverse %}
+   sort: 'start' %}
 
 <div class="people-grid">
 
@@ -91,7 +91,7 @@ title: CORGi People
 ### [{{ corgum.name }}]({{corgum.url}}) ({{ corgum.start | date: "%Y" }} -- {{ corgum.end | date: "%Y" }})
 
 <a href="{{corgum.url}}">
-<img src="{{corgum.image}}" alt="{{corgum.name}}" class="person" />
+<img src="{{corgum.image}}" alt="{{corgum.name}}" class="person" style="height: 150px !important; width: auto !important; margin-right: 10px" />
 </a>
 
 </div>
