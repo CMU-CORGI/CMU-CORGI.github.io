@@ -14,8 +14,8 @@ layout: default
 
 <div class="people-grid">
 
-{% assign people = site.people | sort: 'name' | reverse %}
-{% for person in site.people %}
+{% assign people = site.people | sort: 'start' | reverse %}
+{% for person in people %}
 {% if person.projects contains page.tag %}
 
 <div class="image-and-text">
