@@ -10,4 +10,3 @@ end: ''
 projects:
     caching
 ---
-

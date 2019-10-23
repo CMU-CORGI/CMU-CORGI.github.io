@@ -1,5 +1,5 @@
 ---
-title: Practical and Intelligent Caching Systems
+title: Smart Caching Systems
 tag: caching
 image:
 ---

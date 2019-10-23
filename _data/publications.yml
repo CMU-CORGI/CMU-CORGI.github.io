@@ -1,5 +1,13 @@
+2020.apocs.writeback:
+    title: "Writeback-Aware Caching"
+    authors: [nathan, Phillip Gibbons, Bernhard Haeupler, Charles McGuffey]
+    venue: APoCS
+    date: 2020-01-08
+    projects: [caching]
+    funding: [2019.google]
+
 2019.micro.manic:
-    title: "MANIC: An Energy-Efficient, Parallel Architecture for Ultra-Low-Power Embedded Systems"
+    title: "MANIC: An Energy-Efficient Architecture for Ultra-Low-Power Embedded Systems"
     authors: [graham, nathan, blucia]
     venue: MICRO
     date: 2019-10-12

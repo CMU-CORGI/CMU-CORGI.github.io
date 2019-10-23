@@ -14,4 +14,6 @@ projects:
     caching
 ---
 
-Nathan leads the CORGi group and is involved in all its ongoing projects.
+I lead the CORGi group and am involved in all its ongoing projects.
+You can find my bio, up-to-date CV, and recent teaching and service
+on my [personal website](https://nathanbeckmann.com).
