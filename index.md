@@ -21,6 +21,7 @@ and read our [publications](publications.md).
 
 ### 2019
 
+ * 2019-11-19: [Livia](projects/ms.html) will appear at ASPLOS'20.
  * 2019-10-22: [Writeback-Aware Caching](projects/caching.html) will appear at APoCS'20.
  * 2019-10-20: CORGi and [Abstract](https://abstract.ece.cmu.edu) organized a workshop on energy-harvesting embedded systems at OurCS (see [Outreach](outreach.md)).
  * 2019-10-16: CMU was out in force at MICRO'19, including five CORGi members. [Graham](people/graham.html) presented [MANIC](projects/sonic.html), and Anurag presented [PHI](projects/ms.html).

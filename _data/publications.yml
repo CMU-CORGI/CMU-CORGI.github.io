@@ -1,3 +1,11 @@
+2020.asplos.livia:
+    title: "Livia: Data-Centric Computing Throughout the Memory Hierarchy"
+    authors: [elliot, axel, mohammad, alexandru, shashwat, sanchez, nathan]
+    venue: ASPLOS
+    date: 2020-03-16
+    projects: [ms]
+    funding: [2019.nsf.career]
+
 2020.apocs.writeback:
     title: "Writeback-Aware Caching"
     authors: [nathan, Phillip Gibbons, Bernhard Haeupler, Charles McGuffey]
@@ -8,7 +16,7 @@
 
 2019.micro.manic:
     title: "MANIC: An Energy-Efficient Architecture for Ultra-Low-Power Embedded Systems"
-    authors: [graham, nathan, blucia]
+    authors: [graham, amolak, serafin, Mehmet Meric Isgenc, nathan, blucia]
     venue: MICRO
     date: 2019-10-12
     projects: [sonic]
