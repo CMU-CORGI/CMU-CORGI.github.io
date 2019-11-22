@@ -17,7 +17,7 @@ and read our [publications](publications.md).
  * [Re-Architecting Systems for Intelligent, Ultra-Low-Power Applications](projects/sonic.html)
  * [Software-Defined Memory Hierarchy](projects/software-defined-hierarchy.html)
 
-## News (yyyy/mm/dd)
+## News (yyyy-mm-dd)
 
 ### 2019
 

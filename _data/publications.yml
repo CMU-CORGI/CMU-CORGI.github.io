@@ -30,7 +30,7 @@
     projects: [ms]
     funding: [2019.nsf.career]
 
-2019.spaa.writeback:
+2019.spaa.ba.writeback:
     title: "Writeback-Aware Caching"
     authors: [nathan, Phillip Gibbons, Bernhard Haeupler, Charles McGuffey]
     venue: Brief Announcement in SPAA
@@ -78,7 +78,7 @@
     projects: [caching]
     funding: [2017.google]
 
-2017.isca.cgs:
+2017.isca.agp.cgs:
     title: "Cache-Guided Scheduling: Exploiting Caches to Maximize Locality in Graph Processing"
     authors: [ Anurag Mukkara, nathan, sanchez ]
     venue: AGP at ISCA

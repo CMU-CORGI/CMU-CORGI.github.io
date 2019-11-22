@@ -30,7 +30,7 @@ layout: default
     {% for pub_hash in site.data.publications %}
         {% assign pub = pub_hash[1] %}
         {% if pub.authors contains page.tag %}
-            {% include publication.md pub=pub %}
+            {% include publication.md pub_hash=pub_hash %}
         {% endif %}
     {% endfor %}
 {% endcapture %}

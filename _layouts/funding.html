@@ -30,7 +30,7 @@ layout: default
 {% for pub_hash in site.data.publications %}
     {% assign pub = pub_hash[1] %}
     {% if pub.funding contains page.tag %}
-        {% capture pubmarkdown %}{% include publication.md pub=pub noproject="true" %}{% endcapture %}
+        {% capture pubmarkdown %}{% include publication.md pub_hash=pub_hash noproject="true" %}{% endcapture %}
         {{ pubmarkdown | markdownify }}
     {% endif %}
 {% endfor %}
