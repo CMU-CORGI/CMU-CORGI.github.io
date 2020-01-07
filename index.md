@@ -19,10 +19,6 @@ and read our [publications](publications.md).
 
 ## News (yyyy-mm-dd)
 
-### 2020
-
- * 2020-01-07: [Graham](people/graham.html) was awarded an Apple PhD Fellowship in AI/ML. Congrats!
-
 ### 2019
 
  * 2019-11-19: [Livia](projects/ms.html) will appear at ASPLOS'20.
