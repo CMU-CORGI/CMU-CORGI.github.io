@@ -19,6 +19,10 @@ and read our [publications](publications.md).
 
 ## News (yyyy-mm-dd)
 
+### 2020
+
+ * 2020-01-08: [Writeback-Aware Caching](projects/caching.html) (collab w/ [Charles McGuffey](http://www.cs.cmu.edu/afs/cs/user/cmcguffe/www/) and [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/)) won Best Paper at APoCS'20. Congrats Charlie!
+
 ### 2019
 
  * 2019-11-19: [Livia](projects/ms.html) will appear at ASPLOS'20.
