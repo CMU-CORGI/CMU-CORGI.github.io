@@ -40,7 +40,7 @@
 <h3 class="tight-h3">{{pub.title}}
 <a href="http://cs.cmu.edu/~beckmann/publications/papers/{{key}}.pdf">[pdf]</a></h3>
 
-{{ authors }}. {{pub.venue}} {{pub.date | date: "%Y"}}.<br>
+{{ authors }}. {{pub.venue}} {{pub.date | date: "%Y"}}. {{pub.note}}<br>
 {% unless include.noproject == "true" %}_Project:_ {{ projs | strip }}{% endunless %}
 
 {% endunless %}

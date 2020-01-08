@@ -13,6 +13,7 @@
     date: 2020-01-08
     projects: [caching]
     funding: [2019.google]
+    note: "*(Best Paper.)*"
 
 2019.micro.manic:
     title: "MANIC: An Energy-Efficient Architecture for Ultra-Low-Power Embedded Systems"
@@ -33,10 +34,11 @@
 2019.spaa.ba.writeback:
     title: "Writeback-Aware Caching"
     authors: [nathan, Phillip Gibbons, Bernhard Haeupler, Charles McGuffey]
-    venue: Brief Announcement in SPAA
+    venue: SPAA
     date: 2019-06-01
     projects: [caching]
     funding: [2019.google]
+    note: "*(Brief Announcement.)*"
 
 2019.asplos.sonic:
     title: "Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems"
