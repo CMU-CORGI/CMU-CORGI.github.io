@@ -1,3 +1,11 @@
+2020.isca.tvarak:
+    title: "Tvarak: Software-Managed Hardware Offload for DAX NVM Storage Redundancy"
+    authors: [Rajat Kateja, nathan, Greg Ganger]
+    venue: ISCA
+    date: 2020-05-30
+    projects: [ms]
+    funding: [2019.nsf.career]
+
 2020.asplos.livia:
     title: "Livia: Data-Centric Computing Throughout the Memory Hierarchy"
     authors: [elliot, axel, mohammad, alexandru, shashwat, sanchez, nathan]
