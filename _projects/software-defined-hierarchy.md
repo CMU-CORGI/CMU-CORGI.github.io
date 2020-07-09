@@ -1,7 +1,7 @@
 ---
 title: Software-Defined Memory Hierarchy
 tag: sdm
-image:
+image: images/jumanji.png
 ---
 
 This project dramatically improves multicore performance and energy-efficiency by reducing data movement.
