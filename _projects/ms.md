@@ -2,7 +2,7 @@
 title: Programming the Memory Hierarchy via <i>Memory Services</i>
 tag: ms
 image: images/livia.png
-summary: This project is developing a "polymorphic" memory hierarchy that can be re-programmed by applications to significant improve performance and efficiency, e.g., by moving computation to execute _within_ the cache hierarchy.
+summary: This project is developing a "polymorphic" memory hierarchy that can be re-programmed by applications to significantly improve performance and efficiency, e.g., by moving computation to execute _within_ the cache hierarchy.
 ---
 
 This project is developing a new system architecture

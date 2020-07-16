@@ -7,7 +7,7 @@ summary: Datacenter applications must serve petabytes of data at high throughput
 
 Datacenter applications at companies like Google, Facebook, Microsoft, etc serve enormous workloads consisting of petabytes of data.
 Caching plays a critical part in serving these workloads at high throughput and low cost,
-but datacenter's massive scale introduces many new challenges for caching systems.
+but datacenters' massive scale introduces many new challenges for caching systems.
 To keep cost low, datacenter caches must combine different technologies (DRAM, NVM, flash) with different cost and performance,
 as well as other unique properties like limited write-endurance in flash and NVM.
 
