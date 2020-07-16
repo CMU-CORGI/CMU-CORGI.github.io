@@ -1,13 +1,27 @@
 ---
-title: Re-Architecting Systems for Ultra-Low-Power Applications
+title: Re-Architecting Edge Devices for the Internet of Things
 tag: sonic
-image:
+image: images/sonic.png
+summary: This project is building a new class of ultra-low-power systems to enable sophisticated on-device computation (e.g., machine learning) in the Internet of Things (IoT). (Collaboration with [Brandon Lucia](https://brandonlucia.com).)
 ---
 
-This project aims to enable a new class of intelligent, energy-harvesting sensing applications.
-Future IoT applications will demand intelligence at the edge,
-and battery-less systems that harvest ambient energy from their environment are a promising technology.
-But energy-harvesting devices introduce new problems, since their intermittent power means that the devices suffer frequent power failures, where forward progress is lost.
-We are exploring the limits of these devices, developing novel software and hardware techniques to enable ubiquitous machine learning on energy-harvesting systems.
+This project aims to enable a new class of intelligent, ultra-low-power computer systems
+for the Internet of Things.
+Future IoT applications will demand intelligence at the edge
+to avoid expensive and insecure communication with the cloud.
+These applications run on very low power budgets
+either due to extend battery life
+or because systems harvest energy from their environment.
+Unfortunately, conventional, performance-oriented systems are too inefficient to run sophisticated computation (e.g., machine learning) on the device itself.
+
+We are revisiting system design across the stack, from runtime systems to compilers to ISA to microarchitecture,
+to dramatically improve energy-efficiency and enable sophisticated on-device computation.
+Our Sonic software system enables energy-efficient machine learning while tolerating frequency power failures (ASPLOS'19),
+and our programmable MANIC architecture eliminates most of the wasted energy in a conventional microcontroller
+through a new execution model called _vector-dataflow execution_ (MICRO'19).
+This project is building real prototypes, as shown above in our energy-harvesting demo for Sonic,
+and shown in the image below for our upcoming tape-out of the MANIC architecture in Intel 22nm FFL.
+
+<img src="../images/manic-pnr.jpg" class="person" style="height: 150px !important; width: auto !important; margin-right: 10px" />
 
 This project is a collaboration with [Brandon Lucia](https://brandonlucia.com).

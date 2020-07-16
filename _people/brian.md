@@ -10,4 +10,5 @@ end: ''
 projects:
     sdm
     caching
+    ms
 ---

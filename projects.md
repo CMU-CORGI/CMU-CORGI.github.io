@@ -14,11 +14,13 @@ Click on a project to learn more about its people, publications, and funding.
 
 ### [{{ project.title }}]({{project.url}})
 
+{{project.summary}}
+
+<center>
 <a href="{{project.url}}">
 <img src="{{project.image}}" alt="{{project.title}}" class="project" />
 </a>
-
-{{project.content}}
+</center>
 
 </div>
 

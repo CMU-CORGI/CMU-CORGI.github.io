@@ -8,5 +8,4 @@ image: images/2019-10-01-mohammad.png
 start: 2019-09-30
 end: 2020-02-01
 projects:
-    ms
 ---
