@@ -12,7 +12,7 @@
     venue: MICRO
     date: 2020-10-20
     projects: [sdm]
-    funding: []
+    funding: [2019.nsf.career]
 
 2020.isca.tvarak:
     title: "Tvarak: Software-Managed Hardware Offload for DAX NVM Storage Redundancy"
