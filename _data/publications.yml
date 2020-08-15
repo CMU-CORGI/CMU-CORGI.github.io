@@ -1,3 +1,11 @@
+2020.osdi.cachelib:
+    title: "The CacheLib Caching Engine: Design and Experiences at Scale"
+    authors: [Benjamin Berg, dberger, sara, Isaac Grosof, Sathya Gunasekar, Jimmy Lu, Michael Uhlar, Jim Carrig, nathan, Mor Harchol-Balter, Gregory R. Ganger]
+    venue: OSDI
+    date: 2020-11-04
+    projects: [caching]
+    funding: []
+
 2020.micro.jumanji:
     title: "Jumanji: The Case for Dynamic NUCA in the Datacenter"
     authors: [brian, nathan]
@@ -8,7 +16,7 @@
 
 2020.isca.tvarak:
     title: "Tvarak: Software-Managed Hardware Offload for DAX NVM Storage Redundancy"
-    authors: [Rajat Kateja, nathan, Greg Ganger]
+    authors: [Rajat Kateja, nathan, Gregory R. Ganger]
     venue: ISCA
     date: 2020-05-30
     projects: [ms]
