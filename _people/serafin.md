@@ -1,12 +1,12 @@
 ---
 name: Nathan Serafin
 tag: serafin
-title: MS
+title: PhD student
 dept: Electrical and Computer Engineering
 webpage: 
-image: 
+image: images/2021-02-01-serafin.jpg
 start: 2018-09-01
-end: 2019-06-01
+end: ''
+projects:
+    sonic
 ---
-
-Now a PhD student at CMU.
