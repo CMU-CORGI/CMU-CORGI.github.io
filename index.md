@@ -19,6 +19,10 @@ and read our [publications](publications.md).
 
 ## News (yyyy-mm-dd)
 
+### 2021
+
+ * 2020-02-01: A short paper on _The Role of Edge Offload for Hardware-Accelerated Mobile Devices_ with [Satya](https://www.cs.cmu.edu/~satya/), [Grace](https://www.andrew.cmu.edu/user/gritter/lewis.html), and [Brandon](https://brandonlucia.com/) will appear at HotMobile'21.
+
 ### 2020
 
  * 2020-08-15: Our paper with Facebook on their [CacheLib](projects/caching.html) system will appear at OSDI'20. Congrats [Sara](people/sara.html), as well as all our [PDL](https://www.pdl.cmu.edu/index.shtml) and Facebook collaborators!

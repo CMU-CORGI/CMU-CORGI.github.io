@@ -1,3 +1,11 @@
+2021.hotmobile.offload:
+    title: "The Role of Edge Offload for Hardware-Accelerated Mobile Devices"
+    authors: [Mahadev Satyanarayanan, nathan, Grace A. Lewis, Brandon Lucia]
+    venue: HotMobile
+    date: 2021-02-24
+    projects: [sonic]
+    funding: []
+
 2020.osdi.cachelib:
     title: "The CacheLib Caching Engine: Design and Experiences at Scale"
     authors: [Benjamin Berg, dberger, sara, Isaac Grosof, Sathya Gunasekar, Jimmy Lu, Michael Uhlar, Jim Carrig, nathan, Mor Harchol-Balter, Gregory R. Ganger]
