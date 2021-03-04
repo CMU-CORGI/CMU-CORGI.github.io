@@ -21,6 +21,7 @@ and read our [publications](publications.md).
 
 ### 2021
 
+ * 2020-03-04: [SNAFU](projects/sonic.html) will appear at ISCA'21. Congrats [Graham](people/graham.html)!
  * 2020-02-01: A short paper on _The Role of Edge Offload for Hardware-Accelerated Mobile Devices_ with [Satya](https://www.cs.cmu.edu/~satya/), [Grace](https://www.andrew.cmu.edu/user/gritter/lewis.html), and [Brandon](https://brandonlucia.com/) will appear at HotMobile'21.
 
 ### 2020

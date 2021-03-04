@@ -1,3 +1,11 @@
+2021.isca.snafu:
+    title: "SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture"
+    authors: [graham, Oguz Atli, Ken Mai, Brandon Lucia, nathan]
+    venue: ISCA
+    date: 2021-06-16
+    projects: [sonic]
+    funding: []
+
 2021.hotmobile.offload:
     title: "The Role of Edge Offload for Hardware-Accelerated Mobile Devices"
     authors: [Mahadev Satyanarayanan, nathan, Grace A. Lewis, Brandon Lucia]
