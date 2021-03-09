@@ -23,7 +23,7 @@ and read our [publications](publications.md).
 
  * 2020-03-04: [Sara](people/sara.html) presented her work on [Kangaroo: Caching Billions of Tiny Objects on Flash](projects/caching.html) at the Cache@Scale meetup. (Collab w/ [Greg Ganger](https://www.archive.ece.cmu.edu/~ganger/) and others at [PDL](https://www.pdl.cmu.edu/index.shtml).)
  * 2020-03-04: [SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture](projects/sonic.html) will appear at ISCA'21. Congrats [Graham](people/graham.html)!
- * 2020-02-28: [Nathan](people/nathan.html) gave a [talk](https://public.3.basecamp.com/p/GrFPcGiDgandZqupEAWKvjcS) at the Principles of Memory Hierarchy Optimization workshop [(PMHO @ PPOP)](https://roclocality.org/2020/12/03/pmho2021/).
+ * 2020-02-28: [Nathan](people/nathan.html) gave a [talk](https://public.3.basecamp.com/p/GrFPcGiDgandZqupEAWKvjcS) at the Principles of Memory Hierarchy Optimization workshop [(PMHO @ PPOPP'21)](https://roclocality.org/2020/12/03/pmho2021/).
  * 2020-02-01: A short paper on _The Role of Edge Offload for Hardware-Accelerated Mobile Devices_ with [Satya](https://www.cs.cmu.edu/~satya/), [Grace](https://www.andrew.cmu.edu/user/gritter/lewis.html), and [Brandon](https://brandonlucia.com/) will appear at HotMobile'21.
 
 ### 2020
