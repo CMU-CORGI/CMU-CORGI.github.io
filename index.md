@@ -42,6 +42,7 @@ and read our [publications](publications.md).
 
  * 2020-08-15: Our paper with Facebook on their [CacheLib](projects/caching.html) system will appear at OSDI'20. Congrats [Sara](people/sara.html), as well as all our [PDL](https://www.pdl.cmu.edu/index.shtml) and Facebook collaborators!
  * 2020-07-07: [Jumanji](projects/software-defined-hierarchy.html) will appear at MICRO'20. Congrats [Brian](people/brian.html)!
+ * 2020-07-01: [Graham](people/graham.html) was named an [Apple Scholar in AI/ML](https://machinelearning.apple.com/updates/introducing-apple-scholars-aiml). Congrats Graham!
  * 2020-03-04: [Tvarak](projects/ms.html) (collab w/ [Rajat Kateja](http://users.ece.cmu.edu/~rkateja/) and [Greg Ganger](https://www.archive.ece.cmu.edu/~ganger/)) will appear at ISCA'20.
  * 2020-01-08: [Writeback-Aware Caching](projects/caching.html) (collab w/ [Charles McGuffey](http://www.cs.cmu.edu/afs/cs/user/cmcguffe/www/) and [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/)) won Best Paper at APoCS'20. Congrats Charlie!
 
