@@ -17,6 +17,14 @@ and read our [publications](publications.md).
  * [Re-Architecting Systems for Intelligent, Ultra-Low-Power Applications](projects/sonic.html)
  * [Software-Defined Memory Hierarchy](projects/software-defined-hierarchy.html)
 
+## Research Highlights
+
+ * [SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture](http://cs.cmu.edu/~beckmann/publications/papers/2021.isca.snafu.pdf)
+ * [Livia: Data-Centric Computing Throughout the Memory Hierarchy](http://cs.cmu.edu/~beckmann/publications/papers/2020.asplos.livia.pdf)
+ * [Jumanji: The Case for Dynamic NUCA in the Datacenter](http://cs.cmu.edu/~beckmann/publications/papers/2020.micro.jumanji.pdf)
+ * [The CacheLib Caching Engine: Design and Experiences at Scale](http://cs.cmu.edu/~beckmann/publications/papers/2020.osdi.cachelib.pdf)
+ * [LHD: Improving Cache Hit Rate by Maximizing Hit Density](http://cs.cmu.edu/~beckmann/publications/papers/2018.nsdi.lhd.pdf)
+
 ## News (yyyy-mm-dd)
 
 ### 2021
