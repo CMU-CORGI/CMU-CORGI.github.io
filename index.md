@@ -21,6 +21,8 @@ and read our [publications](publications.md).
 
 ### 2021
 
+ * 2021-04-18: [Block-Granularity-Aware Caching](projects/caching.html) (collab w/ [Charles McGuffey](http://www.cs.cmu.edu/afs/cs/user/cmcguffe/www/) and [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/)) will appear as a Brief Announcement at SPAA'21.
+ * 2021-04-05: [Nathan](people/nathan.html) wrote a [SIGARCH blog post](https://www.sigarch.org/the-case-for-a-programmable-memory-hierarchy/) about the [Programmable Memory Hierarchy](projects/ms.html) project.
  * 2021-03-23: [Sara](people/sara.html) received a NSF Graduate Research Fellowship. Go Sara!
  * 2021-03-10: [Nathan](people/nathan.html) got a Google Research Scholar Award.
  * 2021-03-04: [Sara](people/sara.html) presented her work on [Kangaroo: Caching Billions of Tiny Objects on Flash](projects/caching.html) at the Cache@Scale meetup. (Collab w/ [Greg Ganger](https://www.archive.ece.cmu.edu/~ganger/) and others at [PDL](https://www.pdl.cmu.edu/index.shtml).)
