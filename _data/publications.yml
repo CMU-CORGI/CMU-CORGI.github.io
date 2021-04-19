@@ -1,3 +1,12 @@
+2019.spaa.ba.blockgranularity:
+    title: "Block-Granularity-Aware Caching"
+    authors: [nathan, Phillip Gibbons, Charles McGuffey]
+    venue: SPAA
+    date: 2021-07-06
+    projects: [caching]
+    funding: [2021.google]
+    note: "*(Brief Announcement.)*"
+
 2021.isca.snafu:
     title: "SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture"
     authors: [graham, Oguz Atli, Ken Mai, Brandon Lucia, nathan]
