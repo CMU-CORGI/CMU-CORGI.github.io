@@ -13,7 +13,7 @@
     venue: ISCA
     date: 2021-06-16
     projects: [sonic]
-    funding: [2018.nsf.intermittent]
+    funding: [2018.nsf.intermittent,2021.src.energyminimal]
 
 2021.hotmobile.offload:
     title: "The Role of Edge Offload for Hardware-Accelerated Mobile Devices"

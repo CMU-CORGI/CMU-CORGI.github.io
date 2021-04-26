@@ -12,3 +12,8 @@ google:
     name: Google
     url: https://google.com
     image: https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg
+
+src:
+    name: Semiconductor Research Corporation
+    url: https://www.src.org/
+    image: https://www.src.org/web/img/logo-gray.png
