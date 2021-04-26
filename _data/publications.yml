@@ -1,11 +1,11 @@
 2019.spaa.ba.blockgranularity:
-    title: "Block-Granularity-Aware Caching"
+    title: "Brief Announcement: Block-Granularity-Aware Caching"
     authors: [nathan, Phillip Gibbons, Charles McGuffey]
     venue: SPAA
     date: 2021-07-06
     projects: [caching]
     funding: [2021.google]
-    note: "*(Brief Announcement.)*"
+    note: 
 
 2021.isca.snafu:
     title: "SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture"
@@ -81,13 +81,13 @@
     funding: [2019.nsf.career]
 
 2019.spaa.ba.writeback:
-    title: "Writeback-Aware Caching"
+    title: "Brief Announcement: Writeback-Aware Caching"
     authors: [nathan, Phillip Gibbons, Bernhard Haeupler, Charles McGuffey]
     venue: SPAA
     date: 2019-06-01
     projects: [caching]
     funding: [2019.google]
-    note: "*(Brief Announcement.)*"
+    note:
 
 2019.asplos.sonic:
     title: "Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems"

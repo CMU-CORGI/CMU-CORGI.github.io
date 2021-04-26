@@ -17,7 +17,7 @@ and read our [publications](publications.md).
  * [Re-Architecting Systems for Intelligent, Ultra-Low-Power Applications](projects/sonic.html)
  * [Software-Defined Memory Hierarchy](projects/software-defined-hierarchy.html)
 
-## Research Highlights
+## Recent Research Highlights
 
  * [SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture](http://cs.cmu.edu/~beckmann/publications/papers/2021.isca.snafu.pdf)
  * [Livia: Data-Centric Computing Throughout the Memory Hierarchy](http://cs.cmu.edu/~beckmann/publications/papers/2020.asplos.livia.pdf)
@@ -29,6 +29,7 @@ and read our [publications](publications.md).
 
 ### 2021
 
+ * 2021-04-20: [Sara](people/sara.html) got the NDSEG fellowship too. Wow!
  * 2021-04-18: [Block-Granularity-Aware Caching](projects/caching.html) (collab w/ [Charles McGuffey](http://www.cs.cmu.edu/afs/cs/user/cmcguffe/www/) and [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/)) will appear as a Brief Announcement at SPAA'21.
  * 2021-04-05: [Nathan](people/nathan.html) wrote a [SIGARCH blog post](https://www.sigarch.org/the-case-for-a-programmable-memory-hierarchy/) about the [Programmable Memory Hierarchy](projects/ms.html) project.
  * 2021-03-23: [Sara](people/sara.html) received a NSF Graduate Research Fellowship. Go Sara!
