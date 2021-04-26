@@ -13,7 +13,7 @@
     venue: ISCA
     date: 2021-06-16
     projects: [sonic]
-    funding: []
+    funding: [2018.nsf.intermittent]
 
 2021.hotmobile.offload:
     title: "The Role of Edge Offload for Hardware-Accelerated Mobile Devices"
@@ -29,7 +29,7 @@
     venue: OSDI
     date: 2020-11-04
     projects: [caching]
-    funding: []
+    funding: [facebook.cachelib]
 
 2020.micro.jumanji:
     title: "Jumanji: The Case for Dynamic NUCA in the Datacenter"

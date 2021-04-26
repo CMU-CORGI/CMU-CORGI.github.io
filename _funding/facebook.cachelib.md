@@ -1,7 +1,7 @@
 ---
 title: Caching to Improve Latency and Efficiency at Scale w/ CacheLib
 source: facebook
-tag: 2021.facebook
+tag: facebook.cachelib
 date: 2019-09-01
 projects:
     caching
