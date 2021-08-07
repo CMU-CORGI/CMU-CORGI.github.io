@@ -1,3 +1,11 @@
+2021.sosp.kangaroo:
+    title: "Kangaroo: Caching Billions of Tiny Objects on Flash"
+    authors: [sara, Benjamin Berg, julian, Juncheng Yang, Sathya Gunasekar, Jimmy Lu, dberger, nathan, Gregory R. Ganger]
+    venue: SOSP
+    date: 2021-10-25
+    projects: [caching]
+    funding: [facebook.cachelib]
+
 2021.spaa.ba.blockgranularity:
     title: "Brief Announcement: Block-Granularity-Aware Caching"
     authors: [nathan, Phillip Gibbons, Charles McGuffey]
