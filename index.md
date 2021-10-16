@@ -29,6 +29,7 @@ and read our [publications](publications.md).
 
 ### 2021
 
+ * 2021-09-01: CORGi welcomes new PhD students [Nikhil](people/nikhil.html) and [Souradip](people/souradip.html).
  * 2021-08-06: [Kangaroo: Caching Billions of Tiny Objects on Flash](projects/caching.html) will appear at SOSP'21. Congrats [Sara](people/sara.html), and shout out to our PDL and Facebook collaborators.
  * 2021-04-20: [Sara](people/sara.html) got the NDSEG fellowship too. Wow!
  * 2021-04-18: [Block-Granularity-Aware Caching](projects/caching.html) (collab w/ [Charles McGuffey](http://www.cs.cmu.edu/afs/cs/user/cmcguffe/www/) and [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/)) will appear as a Brief Announcement at SPAA'21.
