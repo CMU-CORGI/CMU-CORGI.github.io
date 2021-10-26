@@ -23,12 +23,13 @@ and read our [publications](publications.md).
  * [SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture](http://cs.cmu.edu/~beckmann/publications/papers/2021.isca.snafu.pdf)
  * [Livia: Data-Centric Computing Throughout the Memory Hierarchy](http://cs.cmu.edu/~beckmann/publications/papers/2020.asplos.livia.pdf)
  * [Jumanji: The Case for Dynamic NUCA in the Datacenter](http://cs.cmu.edu/~beckmann/publications/papers/2020.micro.jumanji.pdf)
- * [The CacheLib Caching Engine: Design and Experiences at Scale](http://cs.cmu.edu/~beckmann/publications/papers/2020.osdi.cachelib.pdf)
+ * [Practical Bounds on Optimal Caching with Variable Object Sizes](http://cs.cmu.edu/~beckmann/publications/papers/2018.sigmetrics.foo.pdf)
 
 ## News (yyyy-mm-dd)
 
 ### 2021
 
+ * 2021-10-26: [Kangaroo](projects/caching.html) won a Best Paper Award at SOSP'21!
  * 2021-09-01: CORGi welcomes new PhD students [Nikhil](people/nikhil.html) and [Souradip](people/souradip.html).
  * 2021-08-06: [Kangaroo: Caching Billions of Tiny Objects on Flash](projects/caching.html) will appear at SOSP'21. Congrats [Sara](people/sara.html), and shout out to our PDL and Facebook collaborators.
  * 2021-04-20: [Sara](people/sara.html) got the NDSEG fellowship too. Wow!
