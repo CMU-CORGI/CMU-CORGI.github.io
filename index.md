@@ -29,7 +29,7 @@ and read our [publications](publications.md).
 
 ### 2022
 
- * 2022-03-02: [täko ̄](projects/ms.html) will appear at ISCA'22. Congrats [Brian](people/brian.html)!
+ * 2022-03-02: [täkō](projects/ms.html) will appear at ISCA'22. Congrats [Brian](people/brian.html)!
 
 ### 2021
 
