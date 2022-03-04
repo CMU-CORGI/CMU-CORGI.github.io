@@ -14,7 +14,7 @@ and read our [publications](publications.md).
 
  * [Smart Caching Systems in the Datacenter](projects/caching.html)
  * [Polymorphic Memory Hierarchy](projects/ms.html)
- * [Energy-Minimal Programable Architectures](projects/sonic.html)
+ * [Energy-Minimal Programable Architectures for Intelligence Beyond the Edge](projects/sonic.html)
 
 ## Recent Research Highlights
 

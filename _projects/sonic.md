@@ -1,5 +1,5 @@
 ---
-title: Energy-Minimal Programmable Architectures to Enable Intelligence Beyond the Edge
+title: Energy-Minimal Programmable Architectures for Intelligence Beyond the Edge
 tag: sonic
 image: images/sonic.png
 summary: This project is building a new class of ultra-low-power systems to enable sophisticated on-device computation (e.g., machine learning) in the Internet of Things (IoT). (Collaboration with [Brandon Lucia](https://brandonlucia.com).)
