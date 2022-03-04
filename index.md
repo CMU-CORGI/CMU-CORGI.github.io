@@ -12,10 +12,9 @@ and read our [publications](publications.md).
 
 ## Current Projects
 
- * [Smart Caching Systems](projects/caching.html)
- * [Programmable Memory Hierarchy for Memory Services](projects/ms.html)
- * [Re-Architecting Systems for Intelligent, Ultra-Low-Power Applications](projects/sonic.html)
- * [Software-Defined Memory Hierarchy](projects/software-defined-hierarchy.html)
+ * [Smart Caching Systems in the Datacenter](projects/caching.html)
+ * [Polymorphic Memory Hierarchy](projects/ms.html)
+ * [Energy-Minimal Programable Architectures](projects/sonic.html)
 
 ## Recent Research Highlights
 
@@ -90,3 +89,6 @@ and read our [publications](publications.md).
  * 2017-02-15: CORGi received a Google Faculty Research Award for [Improving WebScale Cache Performance through Adaptive Policies](funding/2017.google.html).
  * 2017-02-06: [Nathan](people/nathan.html) presented [Maximizing Cache Performance Under Uncertainty](projects/caching.html) at HPCA'17.
  * 2017-01-01: CORGi founded. And so it begins...
+
+## Past Projects
+ * [Software-Defined Memory Hierarchy](projects/software-defined-hierarchy.html)

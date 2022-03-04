@@ -1,5 +1,5 @@
 ---
-title: Re-Architecting Edge Devices for the Internet of Things
+title: Energy-Minimal Programmable Architectures to Enable Intelligence Beyond the Edge
 tag: sonic
 image: images/sonic.png
 summary: This project is building a new class of ultra-low-power systems to enable sophisticated on-device computation (e.g., machine learning) in the Internet of Things (IoT). (Collaboration with [Brandon Lucia](https://brandonlucia.com).)
@@ -23,5 +23,14 @@ This project is building real prototypes, as shown above in our energy-harvestin
 and shown in the image below for our upcoming tape-out of the MANIC architecture in Intel 22nm FFL.
 
 <img src="../images/manic-pnr.jpg" class="person" style="height: 150px !important; width: auto !important; margin-right: 10px" />
+
+SNAFU (ISCA'21) implements the vector-dataflow model across a spatial fabric to further reduce energy.
+SNAFU is the first framework to generate ultra-low-power coarse-grained reconfigurable arrays (CGRAs)
+that are optimized from the ground-up to minimize energy while maximizing flexibility
+--- both design-time flexibility in hardware and run-time flexibility in software.
+SNAFU allows the designer to easily customize processing elements via its “bring-your-own-functional-unit” (BYOFU) approach.
+To maximize run-time flexibility in software, SNAFU provides an extensible compiler that targets generated CGRA hardware.
+SNAFU consumes between 120 µW and 324 µW, depending on workload, achieving an estimated 305 MOPs/mW,
+and comes within 2X-3X of ASIC energy.
 
 This project is a collaboration with [Brandon Lucia](https://brandonlucia.com).
