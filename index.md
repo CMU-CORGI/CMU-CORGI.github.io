@@ -27,6 +27,10 @@ and read our [publications](publications.md).
 
 ## News (yyyy-mm-dd)
 
+### 2022
+
+ * 2022-03-02: [täko ̄](projects/ms.html) will appear at ISCA'22. Congrats [Brian](people/brian.html)!
+
 ### 2021
 
  * 2021-10-26: [Kangaroo](projects/caching.html) won a Best Paper Award at SOSP'21!

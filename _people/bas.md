@@ -1,5 +1,5 @@
 ---
-name: Bas Yoovidhya
+name: Piratach Yoovidhya
 tag: bas
 title: BS
 dept: Computer Science
