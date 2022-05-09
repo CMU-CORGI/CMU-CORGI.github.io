@@ -12,22 +12,22 @@ and read our [publications](publications.md).
 
 ## Current Projects
 
- * [Smart Caching Systems in the Datacenter](projects/caching.html)
  * [Polymorphic Memory Hierarchy](projects/ms.html)
  * [Energy-Minimal Programable Architectures for Intelligence Beyond the Edge](projects/sonic.html)
+ * [Smart Caching Systems in the Datacenter](projects/caching.html)
 
 ## Recent Research Highlights
 
+ * [täkō: A Polymorphic Cache Hierarchy for General-Purpose Optimization of Data Movement](http://cs.cmu.edu/~beckmann/publications/papers/2022.isca.tako.pdf)
  * [Kangaroo: Caching Billions of Tiny Objects on Flash](http://cs.cmu.edu/~beckmann/publications/papers/2021.sosp.kangaroo.pdf)
  * [SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture](http://cs.cmu.edu/~beckmann/publications/papers/2021.isca.snafu.pdf)
- * [Livia: Data-Centric Computing Throughout the Memory Hierarchy](http://cs.cmu.edu/~beckmann/publications/papers/2020.asplos.livia.pdf)
- * [Jumanji: The Case for Dynamic NUCA in the Datacenter](http://cs.cmu.edu/~beckmann/publications/papers/2020.micro.jumanji.pdf)
  * [Practical Bounds on Optimal Caching with Variable Object Sizes](http://cs.cmu.edu/~beckmann/publications/papers/2018.sigmetrics.foo.pdf)
 
 ## News (yyyy-mm-dd)
 
 ### 2022
 
+ * 2022-04-06: [täkō](projects/ms.html) was nominated for a Best Paper award at ISCA'22.
  * 2022-04-02: [Nathan](people/nathan.html) gave a talk at the 2nd Principles of Memory Hierarchy Optimization workshop [(PMHO @ PPOPP'22)](https://roclocality.org/2022/01/24/principles-of-memory-hierarchy-optimization-pmho-2022/).
  * 2022-04-01: Congrats to [Sara](people/sara.html) (and others) on receiving the CMU Graduate Student Service Award for developing the new course 15-996 CS-JEDI: Justice, Equity, Diversity, and Inclusion!
  * 2022-03-02: [täkō](projects/ms.html) will appear at ISCA'22. Congrats [Brian](people/brian.html)!
