@@ -4,7 +4,7 @@ title: CORGi
 
 # CORGi: Computer Organization Research Group @ CMU
 
-Welcome to the CORGi research group!
+Welcome to CORGi!
 
 We are working on many interesting [projects](projects.md).
 Meet the [people](people.md) who make it happen,
