@@ -2,7 +2,7 @@
 title: CORGi
 ---
 
-# CORGi: Computer Organization and Research Group @ CMU
+# CORGi: Computer Organization Research Group @ CMU
 
 Welcome to the CORGi research group!
 
