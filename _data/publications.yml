@@ -1,3 +1,11 @@
+2022.tos.kangaroo:
+    title: "Kangaroo: Theory and Practice of Caching Billions of Tiny Objects on Flash"
+    authors: [sara, Benjamin Berg, julian, Juncheng Yang, Sathya Gunasekar, Jimmy Lu, dberger, nathan, Gregory R. Ganger]
+    venue: ACM Transactions on Storage
+    date: 2022-05-23
+    projects: [caching]
+    funding: [facebook.cachelib]
+
 2022.isca.tako:
     title: "täkō: A Polymorphic Cache Hierarchy for General-Purpose Optimization of Data Movement"
     authors: [brian, bas, seibert, nathan]
