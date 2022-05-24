@@ -1,6 +1,6 @@
 ---
 title: Polymorphic Cache Hierarchy
-tag: ms
+tag: poly
 image: images/livia.png
 summary: This project is developing a "polymorphic" memory hierarchy that can be re-programmed by applications to significantly improve performance and efficiency, e.g., by moving computation to execute _within_ the cache hierarchy.
 ---

@@ -11,9 +11,9 @@
     authors: [brian, bas, seibert, nathan]
     venue: ISCA
     date: 2022-06-11
-    projects: [ms]
+    projects: [poly]
     funding: [2019.nsf.career]
-    
+
 2021.sosp.kangaroo:
     title: "Kangaroo: Caching Billions of Tiny Objects on Flash"
     authors: [sara, Benjamin Berg, julian, Juncheng Yang, Sathya Gunasekar, Jimmy Lu, dberger, nathan, Gregory R. Ganger]
@@ -29,7 +29,7 @@
     date: 2021-07-06
     projects: [caching]
     funding: [2021.google]
-    note: 
+    note:
 
 2021.isca.snafu:
     title: "SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture"
@@ -68,7 +68,7 @@
     authors: [Rajat Kateja, nathan, Gregory R. Ganger]
     venue: ISCA
     date: 2020-05-30
-    projects: [ms]
+    projects: [poly]
     funding: [2019.nsf.career]
 
 2020.asplos.livia:
@@ -76,7 +76,7 @@
     authors: [elliot, axel, mohammad, alexandru, shashwat, sanchez, nathan]
     venue: ASPLOS
     date: 2020-03-16
-    projects: [ms]
+    projects: [poly]
     funding: [2019.nsf.career]
 
 2020.apocs.writeback:
@@ -101,7 +101,7 @@
     authors: [Anurag Mukkara, nathan, sanchez]
     venue: MICRO
     date: 2019-10-12
-    projects: [ms]
+    projects: [poly]
     funding: [2019.nsf.career]
 
 2019.spaa.ba.writeback:
@@ -126,7 +126,7 @@
     authors: [Anurag Mukkara, nathan, Maleen Abeydeera, Xiaosong Ma, sanchez]
     venue: MICRO
     date: 2018-10-01
-    projects: [ms]
+    projects: [poly]
     funding: []
 
 2018.sigmetrics.foo:
@@ -158,7 +158,7 @@
     authors: [ Anurag Mukkara, nathan, sanchez ]
     venue: AGP at ISCA
     date: 2017-06-01
-    projects: [ms]
+    projects: [poly]
     funding: []
 
 2017.pact.nexus:
