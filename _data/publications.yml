@@ -1,3 +1,21 @@
+2022.spaa.ba.granularitychange:
+    title: "Brief Announcement: Spatial Locality and Granularity Change in Caching"
+    authors: [nathan, Phillip Gibbons, Charles McGuffey]
+    venue: SPAA
+    date: 2022-07-11
+    projects: [caching]
+    funding: [2021.google]
+    note: 
+
+2022.arxiv.granularitychange:
+    title: "Spatial Locality and Granularity Change in Caching"
+    authors: [nathan, Phillip Gibbons, Charles McGuffey]
+    venue: arXiv
+    date: 2022-05-28
+    projects: [caching]
+    funding: [2021.google]
+    note: 
+
 2022.tos.kangaroo:
     title: "Kangaroo: Theory and Practice of Caching Billions of Tiny Objects on Flash"
     authors: [sara, Benjamin Berg, julian, Juncheng Yang, Sathya Gunasekar, Jimmy Lu, dberger, nathan, Gregory R. Ganger]

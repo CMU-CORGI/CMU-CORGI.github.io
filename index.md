@@ -27,6 +27,7 @@ and read our [publications](publications.md).
 
 ### 2022
 
+ * 2022-05-28:  [Spatial Locality and Granularity Change in Caching](projects/caching.html) (collab w/ [Charles McGuffey](http://www.cs.cmu.edu/afs/cs/user/cmcguffe/www/) and [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/)) will appear as a Brief Announcement at SPAA'22 and a full paper is on [arXiv](https://arxiv.org/pdf/2205.14543.pdf).
  * 2022-05-23: An extended paper on [Kangaroo](projects/caching.html) will appear in _ACM Transactions on Storage_.
  * 2022-05-06: [täkō](projects/ms.html) was nominated for a Best Paper award at ISCA'22.
  * 2022-05: [Nathan](people/nathan.html) visited Washington, Cornell, Stanford, MIT, and Georgia Tech to talk about _Re-Thinking the Hardware-Software Interface for Data-Centric Systems_.
