@@ -1,3 +1,11 @@
+2022.micro.riptide:
+    title: "RipTide: A programmable, energy-minimal dataflow compiler and architecture"
+    authors: [graham, souradip, Tony Nowatzki, Todd Mowry, nathan, Brandon Lucia]
+    venue: MICRO
+    date: 2022-10-01
+    projects: [sonic]
+    funding: [2018.nsf.intermittent,2021.src.energyminimal]
+
 2022.spaa.ba.granularitychange:
     title: "Brief Announcement: Spatial Locality and Granularity Change in Caching"
     authors: [nathan, Phillip Gibbons, Charles McGuffey]

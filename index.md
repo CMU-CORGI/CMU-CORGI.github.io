@@ -27,6 +27,8 @@ and read our [publications](publications.md).
 
 ### 2022
 
+ * 2022-07-19: [RipTide: A programmable, energy-minimal dataflow compiler and architecture](projects/sonic.html) will appear at MICRO'22. Congrats [Graham](people/graham.html) and [Souradip](people/souradip.html)!
+ * 2022-07-11: [Graham](people/graham.html) defended his PhD thesis! Woohoo!
  * 2022-07-08: Posted Brian's [talk about täkō](https://www.youtube.com/watch?v=P7uQHGNOtWI) from ISCA'22 to YouTube.
  * 2022-05-28: [Spatial Locality and Granularity Change in Caching](projects/caching.html) (collab w/ [Charles McGuffey](http://www.cs.cmu.edu/afs/cs/user/cmcguffe/www/) and [Phil Gibbons](http://www.cs.cmu.edu/~gibbons/)) will appear as a Brief Announcement at SPAA'22 and a full paper is on [arXiv](https://arxiv.org/pdf/2205.14543.pdf).
  * 2022-05-23: An extended paper on [Kangaroo](projects/caching.html) will appear in _ACM Transactions on Storage_.
