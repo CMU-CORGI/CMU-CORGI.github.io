@@ -3,9 +3,9 @@ name: Souradip Ghosh
 tag: souradip
 title: PhD student
 dept: Computer Science
-webpage:
+webpage: https://souradipghosh.com
 image:
-start: 2020-09-01
+start: 2021-09-01
 end: ''
 projects:
     sonic
