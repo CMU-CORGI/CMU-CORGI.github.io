@@ -27,6 +27,7 @@ and read our [publications](publications.md).
 
 ### 2022
 
+ * 2022-08-04: Binghamtom University wrote a nice [article](https://www.binghamton.edu/news/story/3769/watson-college-undergraduate-contributes-to-cybersecurity-research) about Jennifer Seibert's work on [täkō](http://cs.cmu.edu/~beckmann/publications/papers/2022.isca.tako.pdf).
  * 2022-07-19: [RipTide: A programmable, energy-minimal dataflow compiler and architecture](projects/sonic.html) will appear at MICRO'22. Congrats [Graham](people/graham.html) and [Souradip](people/souradip.html)!
  * 2022-07-11: [Graham](people/graham.html) defended his PhD thesis! Woohoo!
  * 2022-07-08: Posted Brian's [talk about täkō](https://www.youtube.com/watch?v=P7uQHGNOtWI) from ISCA'22 to YouTube.
