@@ -6,7 +6,7 @@ dept: University of Portland
 webpage: 
 image: 
 start: 2022-06-01
-end: 
+end: ''
 after:
 projects:
     ms
