@@ -7,6 +7,6 @@ webpage:
 image: 
 start: 2017-09-01
 end: 2019-05-15
+after: PhD at MIT
 ---
 
-Now a PhD student at MIT.

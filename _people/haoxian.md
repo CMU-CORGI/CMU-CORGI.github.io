@@ -7,6 +7,6 @@ webpage: https://www.seas.upenn.edu/~hxchen/
 image: https://www.seas.upenn.edu/~hxchen/avatar.jpg
 start: 2016-09-01
 end: 2017-09-01
+after: PhD at UPenn
 ---
 
-Now at UPenn.
