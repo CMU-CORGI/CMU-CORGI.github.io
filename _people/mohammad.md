@@ -9,5 +9,5 @@ start: 2019-09-30
 end: 2020-02-01
 after: PhD at CMU
 projects:
-    ms
+    poly
 ---
