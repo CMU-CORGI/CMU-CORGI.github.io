@@ -119,10 +119,7 @@ title: CORGi People
 
 ### [{{ person.name }}]({{person.url}}) ({{ person.start | date: "%Y" }} -- {{ person.end | date: "%Y" }})
 
-{{ person.title }} in {{ person.dept }}. {{person.content | remove: "<p>" | remove: "</p>" }}
-{% if person.after %}
-After CORGi: {{person.after}}
-{% endif %}
+{{ person.title }} in {{ person.dept }}. {{person.content | remove: "<p>" | remove: "</p>" }}{% if person.after %}After CORGi: {{person.after}}{% endif %}
 
 </div>
 
