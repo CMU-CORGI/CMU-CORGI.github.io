@@ -18,10 +18,10 @@ and read our [publications](publications.md).
 
 ## Recent Research Highlights
 
+ * [RipTide: A programmable, energy-minimal dataflow compiler and architecture](http://cs.cmu.edu/~beckmann/publications/papers/2022.micro.riptide.pdf)
  * [täkō: A Polymorphic Cache Hierarchy for General-Purpose Optimization of Data Movement](http://cs.cmu.edu/~beckmann/publications/papers/2022.isca.tako.pdf)
  * [Kangaroo: Caching Billions of Tiny Objects on Flash](http://cs.cmu.edu/~beckmann/publications/papers/2021.sosp.kangaroo.pdf)
- * [SNAFU: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture](http://cs.cmu.edu/~beckmann/publications/papers/2021.isca.snafu.pdf)
- * [Practical Bounds on Optimal Caching with Variable Object Sizes](http://cs.cmu.edu/~beckmann/publications/papers/2018.sigmetrics.foo.pdf)
+ * [Spatial Locality and Granularity Change in Caching](http://cs.cmu.edu/~beckmann/publications/papers/2022.arxiv.granularitychange.pdf)
 
 ## News (yyyy-mm-dd)
 
