@@ -1,8 +1,16 @@
+2022.wddsa.kobold:
+    title: "Kobold: Simplified Cache Coherence for Cache-Attached Accelerators"
+    authors: [brana, brian, Yatin Manerkar, nathan]
+    venue: WDSSA at MICRO
+    date: 2022-10-2
+    projects: [poly]
+    funding: [2019.nsf.career]
+
 2022.micro.riptide:
     title: "RipTide: A programmable, energy-minimal dataflow compiler and architecture"
     authors: [graham, souradip, Tony Nowatzki, Todd Mowry, nathan, Brandon Lucia]
     venue: MICRO
-    date: 2022-10-01
+    date: 2022-10-03
     projects: [sonic]
     funding: [2018.nsf.intermittent,2021.src.energyminimal]
 
