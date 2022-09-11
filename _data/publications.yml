@@ -1,7 +1,7 @@
 2022.wddsa.kobold:
     title: "Kobold: Simplified Cache Coherence for Cache-Attached Accelerators"
     authors: [brana, brian, Yatin Manerkar, nathan]
-    venue: WDSSA at MICRO
+    venue: WDDSA at MICRO
     date: 2022-10-2
     projects: [poly]
     funding: [2019.nsf.career]
@@ -21,7 +21,7 @@
     date: 2022-07-11
     projects: [caching]
     funding: [2021.google]
-    note: 
+    note:
 
 2022.arxiv.granularitychange:
     title: "Spatial Locality and Granularity Change in Caching"
@@ -30,7 +30,7 @@
     date: 2022-05-28
     projects: [caching]
     funding: [2021.google]
-    note: 
+    note:
 
 2022.tos.kangaroo:
     title: "Kangaroo: Theory and Practice of Caching Billions of Tiny Objects on Flash"
