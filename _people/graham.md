@@ -1,7 +1,7 @@
 ---
 name: Graham Gobieski
 tag: graham
-title: PhD student
+title: PhD
 dept: Computer Science
 webpage: https://gobieski.com/
 image: images/2019-07-18-graham.jpg
@@ -10,6 +10,9 @@ end: 2022-07-28
 projects:
     sonic
 after: CTO @ EfficientAI
+dissertation: "Programmable, Energy-Minimal Computer Architectures"
 ---
 
 Co-advised with [Brandon Lucia](https://brandonlucia.com).
+
+Graham graduated in Summer'22 and then became Chief Technology Officer at EfficientAI, a startup commercializing his dissertation work.

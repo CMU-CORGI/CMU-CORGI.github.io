@@ -18,7 +18,7 @@ title: CORGi People
 
 {% endfor %}
 
-# PhD Students
+# Current PhD Students
 
 {% assign students = site.people |
   where:"title","PhD student" |
@@ -44,7 +44,7 @@ title: CORGi People
 
 </div>
 
-# Masters and Undergrad Students
+# Current Masters and Undergrad Students
 
 {% assign bsstudents = site.people |
    where_exp:"person","person.title == 'BS'" %}
@@ -102,10 +102,39 @@ title: CORGi People
 
 <br>
 
+# Graduated PhDs
+
+{% assign students = site.people |
+  where_exp:"person","person.dissertation != ''" |
+  sort: 'name' | reverse |
+  sort: 'end' | reverse %}
+
+<div class="people-grid">
+
+{% for person in students %}
+
+<div markdown="1">
+
+### [{{ person.name }}]({{person.url}}) ({{ person.start | date: "%Y" }} -- {{ person.end | date: "%Y" }})
+
+<a href="{{person.url}}">
+<img src="{{person.image}}" alt="{{person.name}}" class="person" />
+</a>
+
+{{ person.title }} in {{ person.dept }}. Dissertation: <i>{{ person.dissertation }}</i>.
+{% if person.after %}After CORGi: {{person.after}}.{% endif %}
+
+</div>
+
+{% endfor %}
+
+</div>
+
 # Former Members
 
 {% assign students = site.people |
   where_exp:"person","person.end != ''" |
+  where_exp:"person","person.dissertation == ''" |
   sort: 'name' | reverse |
   sort: 'end' | reverse %}
 
