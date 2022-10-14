@@ -111,11 +111,9 @@ title: CORGi People
 
 <div class="people-grid">
 
-{{ students | inspect }}
-
 {% for person in students %}
 
-{% unless person.dissertation != '' %}
+{% if person.dissertation %}
 {% unless person.title contains 'Corgi' %}
 
 <div markdown="1">
@@ -127,12 +125,13 @@ title: CORGi People
 </a>
 
 {{ person.title }} in {{ person.dept }}. Dissertation: <i>{{ person.dissertation }}</i>.
+
 {% if person.after %}After CORGi: {{person.after}}.{% endif %}
 
 </div>
 
 {% endunless %}
-{% endunless %}
+{% endif %}
 
 {% endfor %}
 
@@ -149,7 +148,7 @@ title: CORGi People
 
 {% for person in students %}
 
-{% unless person.dissertation == '' %}
+{% unless person.dissertation %}
 {% unless person.title contains 'Corgi' %}
 
 <div markdown="1">
