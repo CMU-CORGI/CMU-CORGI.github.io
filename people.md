@@ -113,7 +113,7 @@ title: CORGi People
 
 {% for person in students %}
 
-{% unless person.dissertation != blank %}
+{% unless person.dissertation != '' %}
 {% unless person.title contains 'Corgi' %}
 
 <div markdown="1">
@@ -147,7 +147,7 @@ title: CORGi People
 
 {% for person in students %}
 
-{% unless person.dissertation == blank %}
+{% unless person.dissertation == '' %}
 {% unless person.title contains 'Corgi' %}
 
 <div markdown="1">
