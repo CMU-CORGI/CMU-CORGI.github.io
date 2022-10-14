@@ -111,6 +111,8 @@ title: CORGi People
 
 <div class="people-grid">
 
+{{ students | inspect }}
+
 {% for person in students %}
 
 {% unless person.dissertation != '' %}
