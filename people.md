@@ -121,9 +121,6 @@ title: CORGi People
 <img src="{{person.image}}" alt="{{person.name}}" class="person" />
 </a>
 
-{{ person.title }} in {{ person.dept }}. Dissertation: <i>{{ person.dissertation }}</i>.
-{% if person.after %}After CORGi: {{person.after}}.{% endif %}
-
 </div>
 
 {% endfor %}
