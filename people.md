@@ -102,11 +102,10 @@ title: CORGi People
 
 <br>
 
-# Former Members
+# Graduated PhDs
 
 {% assign students = site.people |
   where_exp:"person","person.end != ''" |
-  where_exp:"person","person.dissertation == blank" |
   sort: 'name' | reverse |
   sort: 'end' | reverse %}
 
@@ -114,6 +113,41 @@ title: CORGi People
 
 {% for person in students %}
 
+{% unless person.dissertation != blank %}
+{% unless person.title contains 'Corgi' %}
+
+<div markdown="1">
+
+### [{{ person.name }}]({{person.url}}) ({{ person.start | date: "%Y" }} -- {{ person.end | date: "%Y" }})
+
+<a href="{{person.url}}">
+<img src="{{person.image}}" alt="{{person.name}}" class="person" />
+</a>
+
+{{ person.title }} in {{ person.dept }}. Dissertation: <i>{{ person.dissertation }}</i>.
+{% if person.after %}After CORGi: {{person.after}}.{% endif %}
+
+</div>
+
+{% endunless %}
+{% endunless %}
+
+{% endfor %}
+
+</div>
+
+# Former Members
+
+{% assign students = site.people |
+  where_exp:"person","person.end != ''" |
+  sort: 'name' | reverse |
+  sort: 'end' | reverse %}
+
+<div class="people-grid">
+
+{% for person in students %}
+
+{% unless person.dissertation == blank %}
 {% unless person.title contains 'Corgi' %}
 
 <div markdown="1">
@@ -124,6 +158,7 @@ title: CORGi People
 
 </div>
 
+{% endunless %}
 {% endunless %}
 
 {% endfor %}
