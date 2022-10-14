@@ -6,9 +6,10 @@ dept: Computer Science
 webpage: https://gobieski.com/
 image: images/2019-07-18-graham.jpg
 start: 2017-09-01
-end: ''
+end: 2022-07-28
 projects:
     sonic
+after: CTO @ EfficientAI
 ---
 
 Co-advised with [Brandon Lucia](https://brandonlucia.com).

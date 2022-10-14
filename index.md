@@ -29,6 +29,7 @@ and read our [publications](publications.md).
 
  * 2022-09-09: [Kobold](projects/poly.html) will also appear in the Student Research Competition at MICRO'22. Congrats Jennifer!
  * 2022-09-08: [Kobold: Simplified Cache Coherence for Cache-Attached Accelerators](projects/poly.html), a project led by visiting undergraduate researcher [Jennifer Brana](people/brana.html), will appear at the 1st Workshop on Democratizing Domain-Specific Accelerators (WDDSA) at MICRO-22. Congrats Jennifer and Brian!
+ * 2022-09-01: CORGi welcomes new PhD students [Xuesi](people/xuesi.html) and [Mitchell](people/mitchell.html).
  * 2022-08-04: Binghamtom University wrote a nice [article](https://www.binghamton.edu/news/story/3769/watson-college-undergraduate-contributes-to-cybersecurity-research) about Jennifer Seibert's work on [täkō](http://cs.cmu.edu/~beckmann/publications/papers/2022.isca.tako.pdf).
  * 2022-07-19: [RipTide: A programmable, energy-minimal dataflow compiler and architecture](projects/sonic.html) will appear at MICRO'22. Congrats [Graham](people/graham.html) and [Souradip](people/souradip.html)!
  * 2022-07-11: [Graham](people/graham.html) defended his PhD thesis! Woohoo!
