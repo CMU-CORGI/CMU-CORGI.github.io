@@ -8,7 +8,7 @@
 
 2022.micro.riptide:
     title: "RipTide: A programmable, energy-minimal dataflow compiler and architecture"
-    authors: [graham, souradip, Tony Nowatzki, Todd Mowry, nathan, Brandon Lucia]
+    authors: [graham, souradip, Marijn Heule, Todd Mowry, Tony Nowatzki, nathan, Brandon Lucia]
     venue: MICRO
     date: 2022-10-03
     projects: [sonic]
