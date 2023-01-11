@@ -25,6 +25,10 @@ and read our [publications](publications.md).
 
 ## News (yyyy-mm-dd)
 
+### 2023
+
+ * 2023-01-10: [Sara](people/sara.html) and co-authors won [Best Paper at SIGCSE'23](https://sigcse2023.sigcse.org/details/sigcse-ts-2023-papers/13/CS-JEDI-Required-DEI-Education-by-CS-PhD-Students-for-CS-PhD-Students) for _CS-JEDI: Required DEI Education, by CS PhD Students, for CS PhD Students_. Congrats, and very well deserved!
+
 ### 2022
 
  * 2022-12-19: [Nikhil](people/nikhil.html) and [Mitchell](people/mitchell.html)'s abstract on _Reconfigurable dataflow architectures in the post-Moore era_ was selected for a full proposal at the Qualcomm Innovation Fellowship!
