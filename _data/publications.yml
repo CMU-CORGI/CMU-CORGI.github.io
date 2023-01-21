@@ -1,3 +1,11 @@
+2023.iscas.manic:
+    title: "MANIC: a 19µW @ 4MHz, 256 MOPS/mW, RISC-V Microcontroller with Embedded MRAM Main Memory and Vector-Dataflow Co-Processor in 22nm Bulk FinFET CMOS"
+    authors: [graham, Oguz Atli, Cagri Erbagci, Ken Mai, nathan, Brandon Lucia]
+    venue: ISCAS
+    date: 2023-05-23
+    projects: [sonic]
+    funding: [2018.nsf.intermittent]
+
 2022.wddsa.kobold:
     title: "Kobold: Simplified Cache Coherence for Cache-Attached Accelerators"
     authors: [brana, brian, Yatin Manerkar, nathan]
