@@ -1,5 +1,5 @@
 2023.iscas.manic:
-    title: "MANIC: a 19µW @ 4MHz, 256 MOPS/mW, RISC-V Microcontroller with Embedded MRAM Main Memory and Vector-Dataflow Co-Processor in 22nm Bulk FinFET CMOS"
+    title: "MANIC: A 19µW @ 4MHz, 256 MOPS/mW, RISC-V Microcontroller with Embedded MRAM Main Memory and Vector-Dataflow Co-Processor in 22nm Bulk FinFET CMOS"
     authors: [graham, Oguz Atli, Cagri Erbagci, Ken Mai, nathan, Brandon Lucia]
     venue: ISCAS
     date: 2023-05-23
