@@ -27,6 +27,7 @@ and read our [publications](publications.md).
 
 ### 2023
 
+ * 2023-03-29: Congrats to [Jennifer](people/brana.html) for receiving the NSF Graduate Research Fellowship!
  * 2023-02-23: Congrats to [Xuesi](people/xuesi.html) on her paper _Dataflow Blocks: Modular Time-Multiplexing for CGRAs_ at YArch'23 workshop!
  * 2023-01-20: A paper describing the [MANIC testchip](projects/sonic.html) got accepted to ISCAS'23. Collaboration with Oguz Atli, Ken Mai, and Brandon Lucia in ECE.
  * 2023-01-10: [Sara](people/sara.html) and co-authors won [Best Paper at SIGCSE'23](https://sigcse2023.sigcse.org/details/sigcse-ts-2023-papers/13/CS-JEDI-Required-DEI-Education-by-CS-PhD-Students-for-CS-PhD-Students) for _CS-JEDI: Required DEI Education, by CS PhD Students, for CS PhD Students_. Congrats, and very well deserved!
