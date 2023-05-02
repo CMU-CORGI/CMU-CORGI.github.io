@@ -1,3 +1,19 @@
+2023.cal.kobold:
+    title: "Kobold: Simplified Cache Coherence for Cache-Attached Accelerators"
+    authors: [brana, brian, Yatin Manerkar, nathan]
+    venue: IEEE CAL
+    date: 2022-04-04
+    projects: [poly]
+    funding: [2019.nsf.career]
+
+2023.yarch.dataflowblocks:
+    title: "Dataflow Blocks: Modular Time-Multiplexing for CGRAs"
+    authors: [xuesi, Nishanth Subramanian, Karthik Ramanathan, nathan, Brandon Lucia]
+    venue: YArch at ASPLOS
+    date: 2023-03-26
+    projects: [sonic]
+    funding: [2018.nsf.intermittent]
+
 2023.iscas.manic:
     title: "MANIC: A 19µW @ 4MHz, 256 MOPS/mW, RISC-V Microcontroller with Embedded MRAM Main Memory and Vector-Dataflow Co-Processor in 22nm Bulk FinFET CMOS"
     authors: [graham, Oguz Atli, Cagri Erbagci, Ken Mai, nathan, Brandon Lucia]
