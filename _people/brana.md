@@ -1,10 +1,10 @@
 ---
 name: Jennifer Brana
 tag: brana
-title: BS
-dept: University of Portland
-webpage: 
-image: 
+title: PhD student
+dept: Computer Science
+webpage: https://jenniferbrana.github.io/
+image: images/2023-05-08-brana.jpg
 start: 2022-06-01
 end: ''
 after:
