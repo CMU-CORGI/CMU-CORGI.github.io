@@ -2,7 +2,7 @@
     title: "Kobold: Simplified Cache Coherence for Cache-Attached Accelerators"
     authors: [brana, brian, Yatin Manerkar, nathan]
     venue: IEEE CAL
-    date: 2022-04-04
+    date: 2023-04-04
     projects: [poly]
     funding: [2019.nsf.career]
 
