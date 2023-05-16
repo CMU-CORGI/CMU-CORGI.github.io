@@ -27,6 +27,7 @@ and read our [publications](publications.md).
 
 ### 2023
 
+ * 2023-05-12: Immensely proud to [hood Graham](images/2023-05-12-graham-hooding-stage.jpg), CORGi's first graduated PhD student! Joyfully [co-advised by Brandon Lucia](images/2023-05-12-graham-hooding-group.jpg).
  * 2023-04-04: [Kobold: Simplified Cache Coherence for Cache-Attached Accelerators](projects/poly.html) will appear in IEEE Computer Architecture Letters.
  * 2023-03-29: Congrats to [Jennifer](people/brana.html) for receiving the NSF Graduate Research Fellowship!
  * 2023-02-23: Congrats to [Xuesi](people/xuesi.html) on her paper _Dataflow Blocks: Modular Time-Multiplexing for CGRAs_ at YArch'23 workshop!
