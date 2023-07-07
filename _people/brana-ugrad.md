@@ -1,6 +1,6 @@
 ---
 name: Jennifer Brana
-tag: brana
+tag: brana_ugrad
 title: BS
 dept: University of Portland
 webpage: 
