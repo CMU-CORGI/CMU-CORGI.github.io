@@ -1,14 +1,18 @@
 ---
 name: Brian Schwedock
 tag: brian
-title: PhD student
+title: PhD
 dept: Electrical and Computer Engineering
 webpage: https://www.andrew.cmu.edu/user/bschwedo/
 image: images/2019-07-18-brian.jpg
 start: 2017-09-01
-end: ''
+end: 2023-07-03
 projects:
     sdm
     caching
     poly
+after: SoC Architect @ Samsung
+dissertation: "Optimizing Data Movement Through Software Control of General-Purpose Hardware Caches"
 ---
+
+Brian graduated in Summer'23 and joined Samsung as an SoC Architect, where he will design the memory hierarchy of upcoming Samsung products.

@@ -17,3 +17,5 @@ projects:
 I lead the CORGi group and am involved in all its ongoing projects.
 You can find my bio, up-to-date CV, and recent teaching and service
 on my [personal website](http://nathanbeckmann.com).
+
+I am also co-founder and Chief Scientist at [Efficient](https://www.efficient.computer/).

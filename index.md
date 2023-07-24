@@ -27,6 +27,8 @@ and read our [publications](publications.md).
 
 ### 2023
 
+ * 2023-07-24: _Pipestitch: An energy-minimal dataflow architecture with lightweight threads_ by CORGi members [Nathan Serafin](people/serafin.html) and [Souradip](people/souradip.html), with co-authors [Harsh](https://users.ece.cmu.edu/~harshd/) and [Brandon](https://brandonlucia.com/), will appear at MICRO'23! [Nathan](people/nathan.html) also co-authored a paper with [Zhengrong Wang](https://seanzw.github.io/) and [Tony Nowatzki](https://web.cs.ucla.edu/~tjn/).
+ * 2023-07-03: [Brian](people/brian.html) defended his PhD thesis! Go Brian!
  * 2023-05-12: Immensely proud to [hood Graham](images/2023-05-12-graham-hooding-stage.jpg), CORGi's first graduated PhD student! Joyfully [co-advised by Brandon Lucia](images/2023-05-12-graham-hooding-group.jpg).
  * 2023-04-04: [Kobold: Simplified Cache Coherence for Cache-Attached Accelerators](projects/poly.html) will appear in IEEE Computer Architecture Letters.
  * 2023-03-29: Congrats to [Jennifer](people/brana.html) for receiving the NSF Graduate Research Fellowship!
