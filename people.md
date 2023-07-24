@@ -124,7 +124,7 @@ title: CORGi People
 <img src="{{person.image}}" alt="{{person.name}}" class="person" />
 </a>
 
-{{ person.title }} in {{ person.dept }}. Dissertation: <i>{{ person.dissertation }}</i>.{% if person.after %}After CORGi: {{person.after}}.{% endif %}
+{{ person.title }} in {{ person.dept }}. Dissertation: <i>{{ person.dissertation }}</i>.{% if person.after %} After CORGi: {{person.after}}.{% endif %}
 
 </div>
 
@@ -153,7 +153,7 @@ title: CORGi People
 
 ### [{{ person.name }}]({{person.url}}) ({{ person.start | date: "%Y" }} -- {{ person.end | date: "%Y" }})
 
-{{ person.title }} in {{ person.dept }}. {{person.content | remove: "<p>" | remove: "</p>" }}{% if person.after %}After CORGi: {{person.after}}.{% endif %}
+{{ person.title }} in {{ person.dept }}. {{person.content | remove: "<p>" | remove: "</p>" }}{% if person.after %} After CORGi: {{person.after}}.{% endif %}
 
 </div>
 
