@@ -1,3 +1,11 @@
+2023.wddsa.udir:
+    title: "UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures"
+    authors: [nikhil, mitchell, souradip, brian, nathan]
+    venue: WDDSA at MICRO
+    date: 2023-10-29
+    projects: [dataflow]
+    funding: [2019.nsf.career]
+
 2023.micro.pipestitch:
     title: "Pipestitch: An energy-minimal dataflow architecture with lightweight threads"
     authors: [serafin, souradip, Harsh Desai, nathan, Brandon Lucia]

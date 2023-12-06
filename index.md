@@ -12,6 +12,7 @@ and read our [publications](publications.md).
 
 ## Current Projects
 
+ * [Near-Data Dataflow Architectures](projects/dataflow.html)
  * [Polymorphic Memory Hierarchy](projects/poly.html)
  * [Energy-Minimal Programable Architectures for Intelligence Beyond the Edge](projects/sonic.html)
  * [Smart Caching Systems in the Datacenter](projects/caching.html)
@@ -21,12 +22,12 @@ and read our [publications](publications.md).
  * [RipTide: A programmable, energy-minimal dataflow compiler and architecture](http://cs.cmu.edu/~beckmann/publications/papers/2022.micro.riptide.pdf)
  * [täkō: A Polymorphic Cache Hierarchy for General-Purpose Optimization of Data Movement](http://cs.cmu.edu/~beckmann/publications/papers/2022.isca.tako.pdf)
  * [Kangaroo: Caching Billions of Tiny Objects on Flash](http://cs.cmu.edu/~beckmann/publications/papers/2021.sosp.kangaroo.pdf)
- * [Spatial Locality and Granularity Change in Caching](http://cs.cmu.edu/~beckmann/publications/papers/2022.arxiv.granularitychange.pdf)
 
 ## News (yyyy-mm-dd)
 
 ### 2023
 
+ * 2023-10-04: _UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures_ by [Nikhil](people/nikhil.html), [Mitchell](people/mitchell.html), [Souradip](people/souradip.html), and [Brian](people/brian.html) will appear at WDDSA @ MICRO'23 and IEEE Computer Architecture Letters.
  * 2023-08-28: [Sara](people/sara.html) was accepted at EECS Rising Stars!
  * 2023-07-24: _Pipestitch: An energy-minimal dataflow architecture with lightweight threads_ by CORGi members [Nathan Serafin](people/serafin.html) and [Souradip](people/souradip.html), with co-authors [Harsh](https://users.ece.cmu.edu/~harshd/) and [Brandon](https://brandonlucia.com/), will appear at MICRO'23! [Nathan](people/nathan.html) also co-authored a paper with [Zhengrong Wang](https://seanzw.github.io/) and [Tony Nowatzki](https://web.cs.ucla.edu/~tjn/).
  * 2023-07-03: [Brian](people/brian.html) defended his PhD thesis! Go Brian!
