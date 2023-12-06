@@ -1,6 +1,6 @@
 2023.wddsa.udir:
     title: "UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures"
-    authors: [nikhil, mitchell, souradip, brian, nathan]
+    authors: [nikhil, mfream, souradip, brian, nathan]
     venue: WDDSA at MICRO
     date: 2023-10-29
     projects: [dataflow]
