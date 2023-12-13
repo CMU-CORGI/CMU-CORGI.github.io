@@ -1,3 +1,11 @@
+2024.fast.baleen:
+    title: "Baleen: ML Admission & Prefetching for Flash Caches"
+    authors = [Daniel Lin-Kit Wong, Hao Wu, carson, Sathya Gunasekar, Jimmy Lu, Snehal Khandkar, Abhinav Sharma, Daniel S. Berger, nathan, Greg Ganger]
+    venue: FAST
+    date: 2024-02-27
+    projects: [caching]
+    funding: [facebook.cachelib]
+
 2023.wddsa.udir:
     title: "UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures"
     authors: [nikhil, mfream, souradip, brian, nathan]
