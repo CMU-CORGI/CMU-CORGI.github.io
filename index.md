@@ -25,6 +25,10 @@ and read our [publications](publications.md).
 
 ## News (yyyy-mm-dd)
 
+### 2024
+
+ * 2024-02-20: [Nathan](people/nathan.html) is a [Sloan Research Fellow](https://sloan.org/fellowships/2024-Fellows).
+
 ### 2023
 
  * 2023-12-08: _Baleen: ML Admission & Prefetching for Flash Caches_, a collaboration with [PDL](https://pdl.cmu.edu/index.shtml) and Meta, was accepted to appear at FAST'24.
