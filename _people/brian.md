@@ -3,7 +3,7 @@ name: Brian Schwedock
 tag: brian
 title: PhD
 dept: Electrical and Computer Engineering
-webpage: https://www.andrew.cmu.edu/user/bschwedo/
+webpage: https://brian-schwedock.github.io/
 image: images/2019-07-18-brian.jpg
 start: 2017-09-01
 end: 2023-07-03
