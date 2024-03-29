@@ -1,3 +1,10 @@
+2024.hotethics.sensing:
+    title: "Towards Understanding the Carbon Impact in End-to-end Sensing Pipelines"
+    authors: [Harsh Desai, sara, nathan, Brandon Lucia]
+    date: 2024-04-28
+    projects: [sonic]
+    funding: []
+
 2024.fast.baleen:
     title: "Baleen: ML Admission & Prefetching for Flash Caches"
     authors: [Daniel Lin-Kit Wong, Hao Wu, carson, Sathya Gunasekar, Jimmy Lu, Snehal Khandkar, Abhinav Sharma, Daniel S. Berger, nathan, Greg Ganger]
