@@ -27,6 +27,7 @@ and read our [publications](publications.md).
 
 ### 2024
 
+ * 2024-05-03: [Sara](people/sara.html)'s _FairyWREN_ project, a sustainable flash caches for the datacenter, was accepted to appear at OSDI'24.
  * 2024-03-29: Congrats to [Sara](people/sara.html) on her paper on carbon emissions (with Harsh Desai and Brandon Lucia) at HotEthics workshop co-located w ASPLOS'24.
  * 2024-02-20: [Nathan](people/nathan.html) is a [Sloan Research Fellow](https://sloan.org/fellowships/2024-Fellows).
 

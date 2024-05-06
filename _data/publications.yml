@@ -1,13 +1,22 @@
+2024.osdi.fairywren:
+    title: "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces"
+    authors: [sara, Yucong Wang, Benjamin Berg, Daniel Berger, George Amvrosiadis, nathan, Gregory R. Ganger]
+    vanue: OSDI
+    date: 2024-07-10
+    projects: [caching]
+    funding: [facebook.cachelib]
+
 2024.hotethics.sensing:
     title: "Towards Understanding the Carbon Impact in End-to-end Sensing Pipelines"
     authors: [Harsh Desai, sara, nathan, Brandon Lucia]
+    venue: HotEthics at ASPLOS
     date: 2024-04-28
     projects: [sonic]
     funding: []
 
 2024.fast.baleen:
     title: "Baleen: ML Admission & Prefetching for Flash Caches"
-    authors: [Daniel Lin-Kit Wong, Hao Wu, carson, Sathya Gunasekar, Jimmy Lu, Snehal Khandkar, Abhinav Sharma, Daniel S. Berger, nathan, Greg Ganger]
+    authors: [Daniel Lin-Kit Wong, Hao Wu, carson, Sathya Gunasekar, Jimmy Lu, Snehal Khandkar, Abhinav Sharma, Daniel S. Berger, nathan, Gregory R. Ganger]
     venue: FAST
     date: 2024-02-27
     projects: [caching]
