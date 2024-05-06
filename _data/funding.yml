@@ -1,7 +1,7 @@
 facebook:
-    name: Facebook
+    name: Meta
     url: https://engineering.fb.com/category/core-data/
-    image: https://facebookbrand.com/wp-content/uploads/2019/10/flogo_RGB_HEX-BRC-Site-250.png?w=125&h=125
+    image: https://commons.wikimedia.org/wiki/File:Meta_Platforms_Inc._logo_(cropped).svg
 
 nsf:
     name: National Science Foundation
@@ -11,7 +11,7 @@ nsf:
 google:
     name: Google
     url: https://google.com
-    image: https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg
+    image: https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg
 
 src:
     name: Semiconductor Research Corporation
