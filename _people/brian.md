@@ -17,4 +17,4 @@ dissertation: "Optimizing Data Movement Through Software Control of General-Purp
 
 Brian graduated in Summer'23 and joined Samsung as an SoC Architect, where he will design the memory hierarchy of upcoming Samsung products.
 
-![Brian's PhD reception](images/2024-05-10-bschwedo-reception.jpg)
+![Brian's PhD reception](../images/2024-05-10-bschwedo-reception.jpg)

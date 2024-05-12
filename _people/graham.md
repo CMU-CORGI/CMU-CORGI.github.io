@@ -16,3 +16,5 @@ dissertation: "Programmable, Energy-Minimal Computer Architectures"
 Co-advised with [Brandon Lucia](https://brandonlucia.com).
 
 Graham graduated in Summer'22 and then became Chief Technology Officer at Efficient, a startup commercializing his dissertation work.
+
+![Graham's PhD reception](../images/2023-05-12-graham-hooding-group.jpg)
