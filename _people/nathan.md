@@ -4,7 +4,7 @@ tag: nathan
 title: Associate Professor
 dept: "Computer Science and (by courtesy) Electrical and Computer Engineering"
 webpage: http://nathanbeckmann.com
-image: images/2017-10-18-nathan.jpg
+image: images/2024-04-27-nathan-baphy.jpeg
 start: 2017-01-01
 end: ''
 projects:
