@@ -21,4 +21,4 @@ on my [personal website](http://nathanbeckmann.com).
 
 I am also co-founder and Chief Scientist at [Efficient](https://www.efficient.computer/).
 
-<img src="../images/2024-04-27-nathan-baphy.jpeg" alt="Nathan and Baphy" class="person" />
+<img src="../images/2024-04-27-nathan-baphy.jpeg" alt="Nathan and Baphy" class="person" style="height: 250px !important; width: auto !important; margin-right: 10px" />
