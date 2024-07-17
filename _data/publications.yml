@@ -6,7 +6,7 @@
     projects: [dataflow]
     funding: []
 
-2024.micro.tyr:
+2024.micro.leviathan:
     title: "Leviathan: A Unified System for General-Purpose Near-Data Computing"
     authors: [brian, nathan]
     venue: MICRO
