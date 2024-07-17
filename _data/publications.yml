@@ -1,7 +1,31 @@
+2024.micro.tyr:
+    title: "Tyr: Taming Dataflow Parallelism for Better Locality"
+    authors: [nikhil, mitchell, souradip, brian, nathan]
+    venue: MICRO
+    date: 2024-11-02
+    projects: [dataflow]
+    funding: []
+
+2024.micro.tyr:
+    title: "Leviathan: A Unified System for General-Purpose Near-Data Computing"
+    authors: [brian, nathan]
+    venue: MICRO
+    date: 2024-11-02
+    projects: [poly]
+    funding: [2019.nsf.career]
+
+2024.hotcarbon.storage:
+    title: "A Call for Research on Storage Emissions"
+    authors: [sara, Fiodar Kazhamiaka, Daniel S. Berger, Rodrigo Fonseca, Kali Frost, Aaron Ogus, Maneesh Sah, Ricardo Bianchini, George Amvrosiadis, nathan, Gregory R. Ganger]
+    venue: HotCarbon
+    date: 2024-07-09
+    projects: [caching]
+    funding: [facebook.cachelib]
+
 2024.osdi.fairywren:
     title: "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces"
     authors: [sara, Yucong Wang, Benjamin Berg, Daniel Berger, George Amvrosiadis, nathan, Gregory R. Ganger]
-    vanue: OSDI
+    venue: OSDI
     date: 2024-07-10
     projects: [caching]
     funding: [facebook.cachelib]
@@ -21,6 +45,14 @@
     date: 2024-02-27
     projects: [caching]
     funding: [facebook.cachelib]
+
+2023.cal.udir:
+    title: "UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures"
+    authors: [nikhil, mfream, souradip, brian, nathan]
+    venue: IEEE CAL
+    date: 2023-12-13
+    projects: [dataflow]
+    funding: [2019.nsf.career]
 
 2023.wddsa.udir:
     title: "UDIR: Towards a Unified Compiler Framework for Reconfigurable Dataflow Architectures"
