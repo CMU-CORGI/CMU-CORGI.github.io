@@ -1,5 +1,5 @@
 2024.micro.tyr:
-    title: "Tyr: Taming Dataflow Parallelism for Better Locality"
+    title: "The Tyr Dataflow Architecture: Improving Locality by Taming Parallelism"
     authors: [nikhil, mfream, souradip, brian, nathan]
     venue: MICRO
     date: 2024-11-02

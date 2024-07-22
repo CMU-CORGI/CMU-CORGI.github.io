@@ -27,7 +27,7 @@ and read our [publications](publications.md).
 
 ### 2024
 
- * 2024-07-17: CORGi will have two papers at MICRO'24: _Tyr: Taming Dataflow Parallelism for Better Locality_ and _Leviathan: A Unified System for General-Purpose Near-Data Computing_. Congrats to Nikhil, Mitchell, Souradip, and Brian!
+ * 2024-07-17: CORGi will have two papers at MICRO'24: _The Tyr Dataflow Architecture: Improving Locality by Taming Parallelism_ and _Leviathan: A Unified System for General-Purpose Near-Data Computing_. Congrats to Nikhil, Mitchell, Souradip, and Brian!
  * 2024-07-12: [Sara](people/sara.html) gave talks at HotCarbon'24 and OSDI'24 on sustainable storage systems.
  * 2024-05-10: [Brian](people/brian.html) was [hooded](images/2024-05-10-bschwedo-hooding.jpg)! Congrats on the [PhD](images/2024-05-10-bschwedo-reception.jpg), Dr. Schwedock!
  * 2024-05-03: [Sara](people/sara.html)'s _FairyWREN_ project, a sustainable flash caches for the datacenter, was accepted to appear at OSDI'24.
