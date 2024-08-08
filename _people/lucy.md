@@ -1,12 +1,12 @@
 ---
-name: Sherry (Yucong) Wang
-tag: sherry
+name: Lucy Wang
+tag: lucy
 title: BS
 dept: Electrical and Computer Engineering
 webpage: 
 image: 
-start: 2022-09-01
-end: '2024-05-12'
+start: 2024-02-20
+end: ''
 projects:
     caching
 ---
