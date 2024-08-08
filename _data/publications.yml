@@ -24,7 +24,7 @@
 
 2024.osdi.fairywren:
     title: "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces"
-    authors: [sara, Yucong Wang, Benjamin Berg, Daniel Berger, George Amvrosiadis, nathan, Gregory R. Ganger]
+    authors: [sara, sherry, Benjamin Berg, Daniel Berger, George Amvrosiadis, nathan, Gregory R. Ganger]
     venue: OSDI
     date: 2024-07-10
     projects: [caching]
