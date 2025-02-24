@@ -6,7 +6,7 @@
     projects: [caching]
     funding: [facebook.cachelib]
 
-2025.yarch.jbrana:
+2025.yarch.harmony:
     title: "Harmony: Co-Optimizing Parallelism and Locality to Bound Performance"
     authors: [brana, nathan]
     venue: YArch at ASPLOS
