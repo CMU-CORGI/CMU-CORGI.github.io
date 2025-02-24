@@ -25,10 +25,17 @@ and read our [publications](publications.md).
 
 ## News (yyyy-mm-dd)
 
+### 2025
+ * 2025-02-21: [Guy](people/guy.html), [Nathan](people/serafin.html), and [Jennifer](people/jennifer.html)'s talk on rocket-based computing will appear at Wild And Crazy Ideas session at ASPLOS'25.
+ * 2025-02-15: [Jennifer](people/jennifer.html)'s paper on the limits of locality was accepted at _YArch_ workshop at ASPLOS'25.
+ * 2025-02-14: [Sara](people/sara.html)'s extended paper on _FairyWREN_ was accepted at _ACM Transactions on Storage_.
+
 ### 2024
- * 2024-09-28: CORGi welcomes new PhD students [Guy](people/guy.html) and [Sun A](people/suna.html)
+ * 2024-11-05: [Nikhil](people/nikhil.html), [Mitchell](people/mitchell.html), and [Brian](people/brian.html) presented their papers at MICRO'24!
+ * 2024-09-28: CORGi welcomes new PhD students [Guy](people/guy.html) and [Sun A](people/suna.html).
  * 2024-07-17: CORGi will have two papers at MICRO'24: _The Tyr Dataflow Architecture: Improving Locality by Taming Parallelism_ and _Leviathan: A Unified System for General-Purpose Near-Data Computing_. Congrats to Nikhil, Mitchell, Souradip, and Brian!
  * 2024-07-12: [Sara](people/sara.html) gave talks at HotCarbon'24 and OSDI'24 on sustainable storage systems.
+ * 2024-06-12: [Sara](people/sara.html)'s paper _A Call for Research on Storage Emissions_ was accepted at HotCarbon'24.
  * 2024-05-10: [Brian](people/brian.html) was [hooded](images/2024-05-10-bschwedo-hooding.jpg)! Congrats on the [PhD](images/2024-05-10-bschwedo-reception.jpg), Dr. Schwedock!
  * 2024-05-03: [Sara](people/sara.html)'s _FairyWREN_ project, a sustainable flash caches for the datacenter, was accepted to appear at OSDI'24.
  * 2024-03-29: Congrats to [Sara](people/sara.html) on her paper on carbon emissions (with Harsh Desai and Brandon Lucia) at HotEthics workshop co-located w ASPLOS'24.
