@@ -1,3 +1,19 @@
+2025.tos.fairywren:
+    title: "Kangaroo: Theory and Practice of Caching Billions of Tiny Objects on Flash"
+    authors: [sara, sherry, Benjamin Berg, dberger, George Amvrosiadis, nathan, Gregory R. Ganger]
+    venue: ACM Transactions on Storage
+    date: 2025-05-23
+    projects: [caching]
+    funding: [facebook.cachelib]
+
+2025.yarch.jbrana:
+    title: "Harmony: Co-Optimizing Parallelism and Locality to Bound Performance"
+    authors: [brana, nathan]
+    venue: YArch at ASPLOS
+    date: 2025-03-31
+    projects: [dataflow]
+    funding: []
+
 2024.micro.tyr:
     title: "The Tyr Dataflow Architecture: Improving Locality by Taming Parallelism"
     authors: [nikhil, mfream, souradip, brian, nathan]
@@ -16,7 +32,7 @@
 
 2024.hotcarbon.storage:
     title: "A Call for Research on Storage Emissions"
-    authors: [sara, Fiodar Kazhamiaka, Daniel S. Berger, Rodrigo Fonseca, Kali Frost, Aaron Ogus, Maneesh Sah, Ricardo Bianchini, George Amvrosiadis, nathan, Gregory R. Ganger]
+    authors: [sara, Fiodar Kazhamiaka, dberger, Rodrigo Fonseca, Kali Frost, Aaron Ogus, Maneesh Sah, Ricardo Bianchini, George Amvrosiadis, nathan, Gregory R. Ganger]
     venue: HotCarbon
     date: 2024-07-09
     projects: [caching]
@@ -24,7 +40,7 @@
 
 2024.osdi.fairywren:
     title: "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces"
-    authors: [sara, sherry, Benjamin Berg, Daniel Berger, George Amvrosiadis, nathan, Gregory R. Ganger]
+    authors: [sara, sherry, Benjamin Berg, dberger, George Amvrosiadis, nathan, Gregory R. Ganger]
     venue: OSDI
     date: 2024-07-10
     projects: [caching]
@@ -40,7 +56,7 @@
 
 2024.fast.baleen:
     title: "Baleen: ML Admission & Prefetching for Flash Caches"
-    authors: [Daniel Lin-Kit Wong, Hao Wu, carson, Sathya Gunasekar, Jimmy Lu, Snehal Khandkar, Abhinav Sharma, Daniel S. Berger, nathan, Gregory R. Ganger]
+    authors: [Daniel Lin-Kit Wong, Hao Wu, carson, Sathya Gunasekar, Jimmy Lu, Snehal Khandkar, Abhinav Sharma, dberger, nathan, Gregory R. Ganger]
     venue: FAST
     date: 2024-02-27
     projects: [caching]
