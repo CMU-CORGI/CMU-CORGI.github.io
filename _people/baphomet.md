@@ -4,7 +4,7 @@ tag: baphy
 title: Pembroke Welsh Corgi
 dept: Computer Science
 webpage: 
-image: images/baphy-snow.png
+image: images/baphy-snow.jpg
 start: 2018-12-07
 end: ''
 ---
