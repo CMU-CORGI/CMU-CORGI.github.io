@@ -80,7 +80,7 @@ title: CORGi People
 {% assign corgis = site.people |
   where_exp: "corgum", "corgum.title contains 'Corgi'" |
   sort: 'name' | reverse |
-  sort: 'end' | reverse %}
+  sort: 'start' %}
 
 <div class="people-grid">
 
