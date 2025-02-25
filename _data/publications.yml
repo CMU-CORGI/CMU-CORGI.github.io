@@ -1,5 +1,5 @@
 2025.tos.fairywren:
-    title: "Kangaroo: Theory and Practice of Caching Billions of Tiny Objects on Flash"
+    title: "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces"
     authors: [sara, sherry, Benjamin Berg, dberger, George Amvrosiadis, nathan, Gregory R. Ganger]
     venue: ACM Transactions on Storage
     date: 2025-05-23
