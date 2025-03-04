@@ -26,6 +26,7 @@ and read our [publications](publications.md).
 ## News (yyyy-mm-dd)
 
 ### 2025
+ * 2025-02-28: [Mitchell](people/mitchell.html) received the Apple CMU ECE PhD Fellowship in Integrated Systems. Congratulations!
  * 2025-02-21: [Guy](people/guy.html), [Nathan](people/serafin.html), and [Jennifer](people/jennifer.html)'s talk on rocket-based computing will appear at Wild And Crazy Ideas session at ASPLOS'25.
  * 2025-02-15: [Jennifer](people/jennifer.html)'s paper on the limits of locality was accepted at _YArch_ workshop at ASPLOS'25.
  * 2025-02-14: [Sara](people/sara.html)'s extended paper on _FairyWREN_ was accepted at _ACM Transactions on Storage_.
