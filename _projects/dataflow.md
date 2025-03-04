@@ -11,11 +11,11 @@ The end of Dennard scaling has made processors power-limited, and conventional C
 The familiar von Neumann (vN) paradigm takes a sequential view of a program, forcing hardware to employ hard-to-scale, complex mechanisms to rediscover program parallelism at runtime. 
 Worse, this extra complexity comes at the expense of energy efficiency. 
 Simple, fixed function hardware can be made extremely efficient for a given task, so some foresee a future where systems feature a wide variety of specialized accelerators. 
-However, accelerators aren’t a free lunch and deliver lower benefits than generally advertised. 
+However, ***accelerators aren’t a free lunch and deliver lower benefits than generally advertised***. 
 Custom hardware requires large and growing non-recurring engineering costs, which few applications can justify. 
 Specialized accelerators are very disruptive to software; there is no scalable or maintainable solution to integrate an increasing variety of accelerators into existing software development flows. 
-Most importantly, Amdahl’s Law tells us that accelerators’ speedup is limited by the proportion of a task that they can’t optimize. 
-Hence, the only path forward long-term is to reconcile high parallelism, general-purpose-programmability and energy-efficiency. 
+Most importantly, Amdahl’s Law tells us that accelerators’ speedup is limited by the proportion of a task that they *can’t* optimize. 
+Hence, the only path forward long-term is to *reconcile high parallelism, general-purpose-programmability and energy-efficiency*. 
 
 
 ### Our Approach
@@ -24,8 +24,8 @@ Hence, the only path forward long-term is to reconcile high parallelism, general
 
 Reconfigurable dataflow architectures (RDAs) have emerged as an promising solution. 
 RDAs are typically made of simple, tileable processing elements. 
-RDAs adopt the general-purpose dataflow model, wherein programs are expressed as graphs with nodes representing instructions and edges representing producer-consumer relations. 
-Unlike vN architectures, dataflow thus exposes all available parallelism directly in the program, letting simple, energy-efficient hardware achieve high performance and excellent energy efficiency.
+RDAs adopt the general-purpose *dataflow* model, wherein programs are expressed as graphs with nodes representing instructions and edges representing producer-consumer relations. 
+Unlike vN architectures, dataflow thus *exposes all available parallelism directly in the program*, letting simple, energy-efficient hardware achieve high performance and excellent energy efficiency.
 
 
 ### Challenges
