@@ -1,3 +1,11 @@
+2025.pldi.ripple:
+    title: "Ripple: Asynchronous Programming for Spatial Dataflow Architectures"
+    authors: [souradip, Yufei Shi, Brandon Lucia, nathan]
+    venue: PLDI
+    date: 2025-06-16
+    projects: [dataflow]
+    funding: [2024.nsf.edge]
+
 2025.tos.fairywren:
     title: "FairyWREN: A Sustainable Cache for Emerging Write-Read-Erase Flash Interfaces"
     authors: [sara, sherry, Benjamin Berg, dberger, George Amvrosiadis, nathan, Gregory R. Ganger]

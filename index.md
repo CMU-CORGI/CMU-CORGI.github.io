@@ -26,6 +26,9 @@ and read our [publications](publications.md).
 ## News (yyyy-mm-dd)
 
 ### 2025
+
+ * 2025-03-21: [Souradip](people/souradip.html)'s paper on _NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access_ from his internship at [Efficient Computer](https://efficient.computer) will appear at ISCA.
+ * 2025-03-06: [Souradip](people/souradip.html)'s paper on _Ripple: Asynchronous Programming for Spatial Dataflow Architectures_ will appear at PLDI.
  * 2025-02-28: [Mitchell](people/mitchell.html) received the Apple CMU ECE PhD Fellowship in Integrated Systems. Congratulations!
  * 2025-02-21: [Guy](people/guy.html), [Nathan](people/serafin.html), and [Jennifer](people/jennifer.html)'s talk on rocket-based computing will appear at Wild And Crazy Ideas session at ASPLOS'25.
  * 2025-02-15: [Jennifer](people/jennifer.html)'s paper on the limits of locality was accepted at _YArch_ workshop at ASPLOS'25.
