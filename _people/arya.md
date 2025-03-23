@@ -9,5 +9,5 @@ start: 2012-03-12
 end: 2024-12-24
 ---
 
-Arya is the founder and Perpetual Executive Chairdog of CORGi.
+Arya was the founder and Perpetual Executive Chairdog of CORGi.
 She demonstrated profound intellectual leadership throughout her long tenure.
