@@ -25,8 +25,13 @@ and read our [publications](publications.md).
 
 ## News (yyyy-mm-dd)
 
+### 2026
+
+ * 2026-03-26: [Sara](people/sara.html)'s paper on a new, declarative interface for IO will appear at OSDI '26.
+
 ### 2025
 
+ * 2025-10-15: Jane Street has generously given the CORGi Lab a gift towards [Mitchell](people/mitchell.html)'s project on the memory wall in LLMs.
  * 2025-03-21: [Souradip](people/souradip.html)'s paper on _NUPEA: Optimizing Critical Loads on Spatial Dataflow Architectures via Non-Uniform Processing-Element Access_ from his internship at [Efficient Computer](https://efficient.computer) will appear at ISCA.
  * 2025-03-06: [Souradip](people/souradip.html)'s paper on _Ripple: Asynchronous Programming for Spatial Dataflow Architectures_ will appear at PLDI.
  * 2025-02-28: [Mitchell](people/mitchell.html) received the Apple CMU ECE PhD Fellowship in Integrated Systems. Congratulations!

@@ -1,3 +1,11 @@
+2026.osdi.declio:
+    title: "Scaling the IO wall with Declarative IO"
+    authors: [sara, Sanjith Athlur, Theo Gregersen, Timothy Kim, Yiwei Chen, Sarvesh Tandon, Lucy Wang, Daniel S. Berger, Saurabh Kadekodi, Arif Merchant, Benjamin Berg, nathan, Rashmi Vinayak, George Amvrosiadis, Gregory S. Ganger]
+    venue: OSDI
+    date: 2026-07-13
+    projects: [caching]
+    funding: []
+
 2025.pldi.ripple:
     title: "Ripple: Asynchronous Programming for Spatial Dataflow Architectures"
     authors: [souradip, Yufei Shi, Brandon Lucia, nathan]
