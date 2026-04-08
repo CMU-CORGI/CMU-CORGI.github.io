@@ -6,8 +6,8 @@ dept: Computer Science
 webpage: 
 image: 
 start: 2023-09-01
-end: ''
-after:
+end: 2024-05-01
+after: Apple
 projects:
   poly
 ---
